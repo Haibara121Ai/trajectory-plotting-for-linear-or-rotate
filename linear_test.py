@@ -3,25 +3,26 @@ import re
 import numpy as np
 
 
-def file_name(file_num, linear_way):
+def file_name(file_num, linear_way, linear_distance):
     if linear_way == "forward":
-        log_files = [("".join(["linear_trial",f"/{file_num}_trial","forward.md"]), "forward")]
+        log_files = [(f"linear_trial/{file_num}_trial/forw_{linear_distance}.md", "forward")]
     elif linear_way == "back":
-        log_files = [("".join(["linear_trial",f"/{file_num}_trial","back.md"]), "back")]
+        log_files = [(f"linear_trial/{file_num}_trial/back_{linear_distance}.md", "back")]
+
+
     return log_files
 
 file_num_0 = 1
 linear_way = "forward"
+linear_distance = 1
 
-log_files = file_name(file_num_0)
+log_files = file_name(file_num_0, linear_way, linear_distance)
 
 pose_pattern = re.compile(
     r"t:\s*(-?\d+\.?\d*),\s*current_theta:\s*(-?\d+\.?\d*),\s*current_x:\s*(-?\d+\.?\d*),\s*current_y\s*=\s*(-?\d+\.?\d*)"
 )
 vel_pattern = re.compile(
-    r"t\s*=\s*(-?\d+\.?\d*).*?"
-    r"left_actual_velocity\s*=\s*(-?\d+\.?\d*).*?"
-    r"right_actual_velocity\s*=\s*(-?\d+\.?\d*)"
+    r"t\s*=\s*(-?\d+\.?\d*).*?left_actual_velocity\s*=\s*(-?\d+\.?\d*).*?right_actual_velocity\s*=\s*(-?\d+\.?\d*)"
 )
 all_t = []
 all_x = []
