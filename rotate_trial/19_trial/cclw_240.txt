@@ -1,0 +1,362 @@
+[2025-08-15T03:40:46Z] [00:08:53.690,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.100, current_y = 102999.000, v_comm_0 = 0.000
+[2025-08-15T03:40:46Z] [00:08:53.690,000] <inf> DoubleDiff402: delta_t = 0.000,Rotating: left_actual_velocity = 0.000, right_actual_velocity = 0.000
+[2025-08-15T03:40:46Z] [00:08:53.700,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.099, current_y = 102999.001, v_comm_0 = -15.000
+[2025-08-15T03:40:46Z] [00:08:53.700,000] <inf> DoubleDiff402: delta_t = 0.010,Rotating: left_actual_velocity = -0.220, right_actual_velocity = 0.435
+[2025-08-15T03:40:47Z] [00:08:53.711,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.102, current_y = 102998.997, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.711,000] <inf> DoubleDiff402: delta_t = 0.021,Rotating: left_actual_velocity = -16.891, right_actual_velocity = 16.232
+[2025-08-15T03:40:47Z] [00:08:53.723,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.187, current_y = 102998.849, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.723,000] <inf> DoubleDiff402: delta_t = 0.032,Rotating: left_actual_velocity = -41.626, right_actual_velocity = 9.891
+[2025-08-15T03:40:47Z] [00:08:53.733,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.126, current_y = 102998.955, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.733,000] <inf> DoubleDiff402: delta_t = 0.043,Rotating: left_actual_velocity = -26.232, right_actual_velocity = 16.844
+[2025-08-15T03:40:47Z] [00:08:53.744,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.094, current_y = 102999.010, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.744,000] <inf> DoubleDiff402: delta_t = 0.053,Rotating: left_actual_velocity = -22.311, right_actual_velocity = 24.641
+[2025-08-15T03:40:47Z] [00:08:53.754,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.057, current_y = 102999.075, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.754,000] <inf> DoubleDiff402: delta_t = 0.064,Rotating: left_actual_velocity = -18.467, right_actual_velocity = 34.201
+[2025-08-15T03:40:47Z] [00:08:53.765,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.099, current_y = 102999.002, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.765,000] <inf> DoubleDiff402: delta_t = 0.075,Rotating: left_actual_velocity = -28.196, right_actual_velocity = 28.552
+[2025-08-15T03:40:47Z] [00:08:53.775,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.115, current_y = 102998.973, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.775,000] <inf> DoubleDiff402: delta_t = 0.085,Rotating: left_actual_velocity = -38.490, right_actual_velocity = 32.358
+[2025-08-15T03:40:47Z] [00:08:53.785,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.103, current_y = 102998.994, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.785,000] <inf> DoubleDiff402: delta_t = 0.095,Rotating: left_actual_velocity = -37.657, right_actual_velocity = 36.364
+[2025-08-15T03:40:47Z] [00:08:53.796,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.061, current_y = 102999.068, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.796,000] <inf> DoubleDiff402: delta_t = 0.106,Rotating: left_actual_velocity = -32.118, right_actual_velocity = 46.401
+[2025-08-15T03:40:47Z] [00:08:53.806,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.069, current_y = 102999.053, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.806,000] <inf> DoubleDiff402: delta_t = 0.116,Rotating: left_actual_velocity = -39.055, right_actual_velocity = 51.318
+[2025-08-15T03:40:47Z] [00:08:53.816,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.115, current_y = 102998.975, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.817,000] <inf> DoubleDiff402: delta_t = 0.126,Rotating: left_actual_velocity = -53.784, right_actual_velocity = 47.962
+[2025-08-15T03:40:47Z] [00:08:53.827,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.137, current_y = 102998.936, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:53.827,000] <inf> DoubleDiff402: delta_t = 0.137,Rotating: left_actual_velocity = -67.057, right_actual_velocity = 53.637
+[2025-08-15T03:40:47Z] [00:08:53.837,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104998.095, current_y = 102999.109, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.837,000] <inf> DoubleDiff402: delta_t = 0.147,Rotating: left_actual_velocity = -62.952, right_actual_velocity = 65.099
+[2025-08-15T03:40:47Z] [00:08:53.848,000] <inf> DoubleDiff402: current_theta: 120.0, current_x: 104997.975, current_y = 102999.243, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.848,000] <inf> DoubleDiff402: delta_t = 0.157,Rotating: left_actual_velocity = -67.691, right_actual_velocity = 77.676
+[2025-08-15T03:40:47Z] [00:08:53.858,000] <inf> DoubleDiff402: current_theta: 120.1, current_x: 104998.013, current_y = 102999.178, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.858,000] <inf> DoubleDiff402: delta_t = 0.168,Rotating: left_actual_velocity = -80.430, right_actual_velocity = 75.707
+[2025-08-15T03:40:47Z] [00:08:53.869,000] <inf> DoubleDiff402: current_theta: 120.1, current_x: 104997.934, current_y = 102999.241, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.869,000] <inf> DoubleDiff402: delta_t = 0.178,Rotating: left_actual_velocity = -96.871, right_actual_velocity = 83.137
+[2025-08-15T03:40:47Z] [00:08:53.879,000] <inf> DoubleDiff402: current_theta: 120.3, current_x: 104997.935, current_y = 102999.241, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.879,000] <inf> DoubleDiff402: delta_t = 0.189,Rotating: left_actual_velocity = -102.280, right_actual_velocity = 89.750
+[2025-08-15T03:40:47Z] [00:08:53.890,000] <inf> DoubleDiff402: current_theta: 120.3, current_x: 104997.934, current_y = 102999.241, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.890,000] <inf> DoubleDiff402: delta_t = 0.200,Rotating: left_actual_velocity = -115.605, right_actual_velocity = 103.212
+[2025-08-15T03:40:47Z] [00:08:53.900,000] <inf> DoubleDiff402: current_theta: 120.4, current_x: 104997.941, current_y = 102999.231, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.900,000] <inf> DoubleDiff402: delta_t = 0.210,Rotating: left_actual_velocity = -123.417, right_actual_velocity = 107.317
+[2025-08-15T03:40:47Z] [00:08:53.911,000] <inf> DoubleDiff402: current_theta: 120.5, current_x: 104997.954, current_y = 102999.308, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.911,000] <inf> DoubleDiff402: delta_t = 0.220,Rotating: left_actual_velocity = -132.088, right_actual_velocity = 110.678
+[2025-08-15T03:40:47Z] [00:08:53.921,000] <inf> DoubleDiff402: current_theta: 120.6, current_x: 104997.971, current_y = 102999.280, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.921,000] <inf> DoubleDiff402: delta_t = 0.231,Rotating: left_actual_velocity = -139.565, right_actual_velocity = 114.301
+[2025-08-15T03:40:47Z] [00:08:53.931,000] <inf> DoubleDiff402: current_theta: 120.8, current_x: 104997.968, current_y = 102999.186, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.931,000] <inf> DoubleDiff402: delta_t = 0.241,Rotating: left_actual_velocity = -145.241, right_actual_velocity = 118.736
+[2025-08-15T03:40:47Z] [00:08:53.942,000] <inf> DoubleDiff402: current_theta: 120.9, current_x: 104997.974, current_y = 102999.277, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.942,000] <inf> DoubleDiff402: delta_t = 0.251,Rotating: left_actual_velocity = -151.131, right_actual_velocity = 122.391
+[2025-08-15T03:40:47Z] [00:08:53.952,000] <inf> DoubleDiff402: current_theta: 121.1, current_x: 104997.992, current_y = 102999.248, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.952,000] <inf> DoubleDiff402: delta_t = 0.262,Rotating: left_actual_velocity = -157.399, right_actual_velocity = 125.171
+[2025-08-15T03:40:47Z] [00:08:53.962,000] <inf> DoubleDiff402: current_theta: 121.3, current_x: 104997.993, current_y = 102999.246, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.962,000] <inf> DoubleDiff402: delta_t = 0.272,Rotating: left_actual_velocity = -164.274, right_actual_velocity = 128.297
+[2025-08-15T03:40:47Z] [00:08:53.973,000] <inf> DoubleDiff402: current_theta: 121.5, current_x: 104998.008, current_y = 102999.224, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.973,000] <inf> DoubleDiff402: delta_t = 0.283,Rotating: left_actual_velocity = -170.091, right_actual_velocity = 132.460
+[2025-08-15T03:40:47Z] [00:08:53.983,000] <inf> DoubleDiff402: current_theta: 121.8, current_x: 104997.998, current_y = 102999.242, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.983,000] <inf> DoubleDiff402: delta_t = 0.293,Rotating: left_actual_velocity = -174.421, right_actual_velocity = 137.308
+[2025-08-15T03:40:47Z] [00:08:53.994,000] <inf> DoubleDiff402: current_theta: 122.0, current_x: 104998.003, current_y = 102999.135, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:53.994,000] <inf> DoubleDiff402: delta_t = 0.304,Rotating: left_actual_velocity = -179.107, right_actual_velocity = 143.796
+[2025-08-15T03:40:47Z] [00:08:54.004,000] <inf> DoubleDiff402: current_theta: 122.3, current_x: 104997.991, current_y = 102999.156, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:54.004,000] <inf> DoubleDiff402: delta_t = 0.314,Rotating: left_actual_velocity = -183.485, right_actual_velocity = 149.482
+[2025-08-15T03:40:47Z] [00:08:54.015,000] <inf> DoubleDiff402: current_theta: 122.6, current_x: 104998.091, current_y = 102999.058, v_comm_0 = -15.000
+[2025-08-15T03:40:47Z] [00:08:54.015,000] <inf> DoubleDiff402: delta_t = 0.324,Rotating: left_actual_velocity = -188.192, right_actual_velocity = 154.420
+[2025-08-15T03:40:47Z] [00:08:54.025,000] <inf> DoubleDiff402: current_theta: 122.8, current_x: 104998.205, current_y = 102998.937, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:54.025,000] <inf> DoubleDiff402: delta_t = 0.335,Rotating: left_actual_velocity = -193.674, right_actual_velocity = 158.509
+[2025-08-15T03:40:47Z] [00:08:54.035,000] <inf> DoubleDiff402: current_theta: 123.1, current_x: 104998.201, current_y = 102998.845, v_comm_0 = 15.000
+[2025-08-15T03:40:47Z] [00:08:54.035,000] <inf> DoubleDiff402: delta_t = 0.345,Rotating: left_actual_velocity = -199.098, right_actual_velocity = 162.022
+[2025-08-15T03:40:47Z] [00:08:54.046,000] <inf> DoubleDiff402: current_theta: 123.5, current_x: 104998.252, current_y = 102998.821, v_comm_0 = 15.000
+[2025-08-15T03:40:48Z] [00:08:54.046,000] <inf> DoubleDiff402: delta_t = 0.355,Rotating: left_actual_velocity = -194.150, right_actual_velocity = 175.128
+[2025-08-15T03:40:48Z] [00:08:54.056,000] <inf> DoubleDiff402: current_theta: 123.8, current_x: 104998.338, current_y = 102998.744, v_comm_0 = 15.000
+[2025-08-15T03:40:48Z] [00:08:54.056,000] <inf> DoubleDiff402: delta_t = 0.366,Rotating: left_actual_velocity = -196.695, right_actual_velocity = 184.411
+[2025-08-15T03:40:48Z] [00:08:54.066,000] <inf> DoubleDiff402: current_theta: 124.1, current_x: 104998.425, current_y = 102998.662, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.066,000] <inf> DoubleDiff402: delta_t = 0.376,Rotating: left_actual_velocity = -199.873, right_actual_velocity = 190.810
+[2025-08-15T03:40:48Z] [00:08:54.077,000] <inf> DoubleDiff402: current_theta: 124.5, current_x: 104998.513, current_y = 102998.480, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.077,000] <inf> DoubleDiff402: delta_t = 0.387,Rotating: left_actual_velocity = -203.523, right_actual_velocity = 199.192
+[2025-08-15T03:40:48Z] [00:08:54.087,000] <inf> DoubleDiff402: current_theta: 124.8, current_x: 104998.607, current_y = 102998.390, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.087,000] <inf> DoubleDiff402: delta_t = 0.397,Rotating: left_actual_velocity = -208.711, right_actual_velocity = 206.177
+[2025-08-15T03:40:48Z] [00:08:54.098,000] <inf> DoubleDiff402: current_theta: 125.2, current_x: 104998.697, current_y = 102998.305, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.098,000] <inf> DoubleDiff402: delta_t = 0.407,Rotating: left_actual_velocity = -213.005, right_actual_velocity = 214.194
+[2025-08-15T03:40:48Z] [00:08:54.108,000] <inf> DoubleDiff402: current_theta: 125.6, current_x: 104998.779, current_y = 102998.129, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.108,000] <inf> DoubleDiff402: delta_t = 0.418,Rotating: left_actual_velocity = -216.063, right_actual_velocity = 222.534
+[2025-08-15T03:40:48Z] [00:08:54.119,000] <inf> DoubleDiff402: current_theta: 126.0, current_x: 104998.869, current_y = 102998.042, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.119,000] <inf> DoubleDiff402: delta_t = 0.428,Rotating: left_actual_velocity = -219.304, right_actual_velocity = 229.797
+[2025-08-15T03:40:48Z] [00:08:54.129,000] <inf> DoubleDiff402: current_theta: 126.4, current_x: 104998.961, current_y = 102997.953, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.129,000] <inf> DoubleDiff402: delta_t = 0.439,Rotating: left_actual_velocity = -223.435, right_actual_velocity = 235.347
+[2025-08-15T03:40:48Z] [00:08:54.139,000] <inf> DoubleDiff402: current_theta: 126.8, current_x: 104999.059, current_y = 102997.754, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.139,000] <inf> DoubleDiff402: delta_t = 0.449,Rotating: left_actual_velocity = -226.100, right_actual_velocity = 239.656
+[2025-08-15T03:40:48Z] [00:08:54.150,000] <inf> DoubleDiff402: current_theta: 127.2, current_x: 104999.149, current_y = 102997.667, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.150,000] <inf> DoubleDiff402: delta_t = 0.460,Rotating: left_actual_velocity = -231.357, right_actual_velocity = 246.557
+[2025-08-15T03:40:48Z] [00:08:54.160,000] <inf> DoubleDiff402: current_theta: 127.7, current_x: 104999.251, current_y = 102997.564, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.160,000] <inf> DoubleDiff402: delta_t = 0.470,Rotating: left_actual_velocity = -235.954, right_actual_velocity = 252.133
+[2025-08-15T03:40:48Z] [00:08:54.171,000] <inf> DoubleDiff402: current_theta: 128.2, current_x: 104999.348, current_y = 102997.466, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.171,000] <inf> DoubleDiff402: delta_t = 0.480,Rotating: left_actual_velocity = -246.636, right_actual_velocity = 263.517
+[2025-08-15T03:40:48Z] [00:08:54.181,000] <inf> DoubleDiff402: current_theta: 128.6, current_x: 104999.347, current_y = 102997.366, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.181,000] <inf> DoubleDiff402: delta_t = 0.491,Rotating: left_actual_velocity = -251.359, right_actual_velocity = 266.731
+[2025-08-15T03:40:48Z] [00:08:54.191,000] <inf> DoubleDiff402: current_theta: 129.1, current_x: 104999.352, current_y = 102997.358, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.191,000] <inf> DoubleDiff402: delta_t = 0.501,Rotating: left_actual_velocity = -258.082, right_actual_velocity = 273.145
+[2025-08-15T03:40:48Z] [00:08:54.202,000] <inf> DoubleDiff402: current_theta: 129.6, current_x: 104999.351, current_y = 102997.359, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.202,000] <inf> DoubleDiff402: delta_t = 0.511,Rotating: left_actual_velocity = -263.752, right_actual_velocity = 279.057
+[2025-08-15T03:40:48Z] [00:08:54.212,000] <inf> DoubleDiff402: current_theta: 130.1, current_x: 104999.352, current_y = 102997.357, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.212,000] <inf> DoubleDiff402: delta_t = 0.522,Rotating: left_actual_velocity = -269.475, right_actual_velocity = 283.094
+[2025-08-15T03:40:48Z] [00:08:54.223,000] <inf> DoubleDiff402: current_theta: 130.6, current_x: 104999.363, current_y = 102997.344, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.223,000] <inf> DoubleDiff402: delta_t = 0.532,Rotating: left_actual_velocity = -275.476, right_actual_velocity = 286.937
+[2025-08-15T03:40:48Z] [00:08:54.234,000] <inf> DoubleDiff402: current_theta: 137.0, current_x: 104998.543, current_y = 102998.153, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.234,000] <inf> DoubleDiff402: delta_t = 0.544,Rotating: left_actual_velocity = -280.827, right_actual_velocity = 293.786
+[2025-08-15T03:40:48Z] [00:08:54.244,000] <inf> DoubleDiff402: current_theta: 137.7, current_x: 104998.449, current_y = 102998.146, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.244,000] <inf> DoubleDiff402: delta_t = 0.554,Rotating: left_actual_velocity = -285.152, right_actual_velocity = 298.964
+[2025-08-15T03:40:48Z] [00:08:54.255,000] <inf> DoubleDiff402: current_theta: 138.4, current_x: 104998.447, current_y = 102998.247, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.255,000] <inf> DoubleDiff402: delta_t = 0.565,Rotating: left_actual_velocity = -284.549, right_actual_velocity = 297.351
+[2025-08-15T03:40:48Z] [00:08:54.265,000] <inf> DoubleDiff402: current_theta: 139.1, current_x: 104998.356, current_y = 102998.338, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.265,000] <inf> DoubleDiff402: delta_t = 0.575,Rotating: left_actual_velocity = -290.456, right_actual_velocity = 302.043
+[2025-08-15T03:40:48Z] [00:08:54.276,000] <inf> DoubleDiff402: current_theta: 139.7, current_x: 104998.262, current_y = 102998.332, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.276,000] <inf> DoubleDiff402: delta_t = 0.585,Rotating: left_actual_velocity = -295.451, right_actual_velocity = 305.389
+[2025-08-15T03:40:48Z] [00:08:54.286,000] <inf> DoubleDiff402: current_theta: 140.4, current_x: 104998.162, current_y = 102998.431, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.286,000] <inf> DoubleDiff402: delta_t = 0.596,Rotating: left_actual_velocity = -298.441, right_actual_velocity = 307.326
+[2025-08-15T03:40:48Z] [00:08:54.296,000] <inf> DoubleDiff402: current_theta: 141.2, current_x: 104998.151, current_y = 102998.440, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.297,000] <inf> DoubleDiff402: delta_t = 0.606,Rotating: left_actual_velocity = -299.734, right_actual_velocity = 312.421
+[2025-08-15T03:40:48Z] [00:08:54.307,000] <inf> DoubleDiff402: current_theta: 141.8, current_x: 104998.051, current_y = 102998.538, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.307,000] <inf> DoubleDiff402: delta_t = 0.617,Rotating: left_actual_velocity = -303.959, right_actual_velocity = 315.190
+[2025-08-15T03:40:48Z] [00:08:54.317,000] <inf> DoubleDiff402: current_theta: 142.6, current_x: 104997.961, current_y = 102998.630, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.317,000] <inf> DoubleDiff402: delta_t = 0.627,Rotating: left_actual_velocity = -308.085, right_actual_velocity = 317.845
+[2025-08-15T03:40:48Z] [00:08:54.328,000] <inf> DoubleDiff402: current_theta: 143.3, current_x: 104997.968, current_y = 102998.624, v_comm_0 = 8.000
+[2025-08-15T03:40:48Z] [00:08:54.328,000] <inf> DoubleDiff402: delta_t = 0.638,Rotating: left_actual_velocity = -312.766, right_actual_velocity = 319.971
+[2025-08-15T03:40:48Z] [00:08:54.338,000] <inf> DoubleDiff402: current_theta: 144.0, current_x: 104997.856, current_y = 102998.732, v_comm_0 = -8.000
+[2025-08-15T03:40:48Z] [00:08:54.338,000] <inf> DoubleDiff402: delta_t = 0.648,Rotating: left_actual_velocity = -315.892, right_actual_velocity = 326.704
+[2025-08-15T03:40:48Z] [00:08:54.349,000] <inf> DoubleDiff402: current_theta: 144.7, current_x: 104997.752, current_y = 102998.734, v_comm_0 = -8.000
+[2025-08-15T03:40:48Z] [00:08:54.349,000] <inf> DoubleDiff402: delta_t = 0.658,Rotating: left_actual_velocity = -319.594, right_actual_velocity = 331.380
+[2025-08-15T03:40:48Z] [00:08:54.359,000] <inf> DoubleDiff402: current_theta: 145.5, current_x: 104997.691, current_y = 102998.807, v_comm_0 = -8.000
+[2025-08-15T03:40:48Z] [00:08:54.359,000] <inf> DoubleDiff402: delta_t = 0.669,Rotating: left_actual_velocity = -328.935, right_actual_velocity = 331.029
+[2025-08-15T03:40:48Z] [00:08:54.370,000] <inf> DoubleDiff402: current_theta: 146.2, current_x: 104997.743, current_y = 102998.772, v_comm_0 = -8.000
+[2025-08-15T03:40:48Z] [00:08:54.370,000] <inf> DoubleDiff402: delta_t = 0.679,Rotating: left_actual_velocity = -341.894, right_actual_velocity = 331.663
+[2025-08-15T03:40:48Z] [00:08:54.380,000] <inf> DoubleDiff402: current_theta: 147.0, current_x: 104997.656, current_y = 102998.763, v_comm_0 = -8.000
+[2025-08-15T03:40:48Z] [00:08:54.380,000] <inf> DoubleDiff402: delta_t = 0.690,Rotating: left_actual_velocity = -350.523, right_actual_velocity = 338.307
+[2025-08-15T03:40:48Z] [00:08:54.390,000] <inf> DoubleDiff402: current_theta: 147.8, current_x: 104997.546, current_y = 102998.871, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.391,000] <inf> DoubleDiff402: delta_t = 0.700,Rotating: left_actual_velocity = -358.482, right_actual_velocity = 347.580
+[2025-08-15T03:40:49Z] [00:08:54.401,000] <inf> DoubleDiff402: current_theta: 148.5, current_x: 104997.570, current_y = 102998.857, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.401,000] <inf> DoubleDiff402: delta_t = 0.711,Rotating: left_actual_velocity = -365.754, right_actual_velocity = 350.916
+[2025-08-15T03:40:49Z] [00:08:54.411,000] <inf> DoubleDiff402: current_theta: 149.4, current_x: 104997.579, current_y = 102998.953, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.411,000] <inf> DoubleDiff402: delta_t = 0.721,Rotating: left_actual_velocity = -371.252, right_actual_velocity = 352.916
+[2025-08-15T03:40:49Z] [00:08:54.422,000] <inf> DoubleDiff402: current_theta: 150.2, current_x: 104997.493, current_y = 102998.947, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.422,000] <inf> DoubleDiff402: delta_t = 0.732,Rotating: left_actual_velocity = -378.263, right_actual_velocity = 358.806
+[2025-08-15T03:40:49Z] [00:08:54.432,000] <inf> DoubleDiff402: current_theta: 151.0, current_x: 104997.494, current_y = 102998.948, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.432,000] <inf> DoubleDiff402: delta_t = 0.742,Rotating: left_actual_velocity = -385.133, right_actual_velocity = 363.749
+[2025-08-15T03:40:49Z] [00:08:54.443,000] <inf> DoubleDiff402: current_theta: 151.8, current_x: 104997.508, current_y = 102998.942, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.443,000] <inf> DoubleDiff402: delta_t = 0.752,Rotating: left_actual_velocity = -392.756, right_actual_velocity = 368.200
+[2025-08-15T03:40:49Z] [00:08:54.453,000] <inf> DoubleDiff402: current_theta: 152.7, current_x: 104997.609, current_y = 102998.944, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.453,000] <inf> DoubleDiff402: delta_t = 0.763,Rotating: left_actual_velocity = -397.191, right_actual_velocity = 374.938
+[2025-08-15T03:40:49Z] [00:08:54.463,000] <inf> DoubleDiff402: current_theta: 153.5, current_x: 104997.607, current_y = 102998.947, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.463,000] <inf> DoubleDiff402: delta_t = 0.773,Rotating: left_actual_velocity = -403.809, right_actual_velocity = 379.996
+[2025-08-15T03:40:49Z] [00:08:54.474,000] <inf> DoubleDiff402: current_theta: 154.4, current_x: 104997.648, current_y = 102998.929, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.474,000] <inf> DoubleDiff402: delta_t = 0.784,Rotating: left_actual_velocity = -411.391, right_actual_velocity = 381.483
+[2025-08-15T03:40:49Z] [00:08:54.484,000] <inf> DoubleDiff402: current_theta: 155.3, current_x: 104997.744, current_y = 102998.834, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.484,000] <inf> DoubleDiff402: delta_t = 0.794,Rotating: left_actual_velocity = -417.193, right_actual_velocity = 385.578
+[2025-08-15T03:40:49Z] [00:08:54.495,000] <inf> DoubleDiff402: current_theta: 156.2, current_x: 104997.742, current_y = 102998.837, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.495,000] <inf> DoubleDiff402: delta_t = 0.804,Rotating: left_actual_velocity = -421.601, right_actual_velocity = 390.594
+[2025-08-15T03:40:49Z] [00:08:54.505,000] <inf> DoubleDiff402: current_theta: 157.2, current_x: 104997.852, current_y = 102998.836, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.505,000] <inf> DoubleDiff402: delta_t = 0.815,Rotating: left_actual_velocity = -426.261, right_actual_velocity = 396.291
+[2025-08-15T03:40:49Z] [00:08:54.515,000] <inf> DoubleDiff402: current_theta: 158.1, current_x: 104997.933, current_y = 102998.846, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.516,000] <inf> DoubleDiff402: delta_t = 0.825,Rotating: left_actual_velocity = -431.105, right_actual_velocity = 402.406
+[2025-08-15T03:40:49Z] [00:08:54.526,000] <inf> DoubleDiff402: current_theta: 159.0, current_x: 104997.959, current_y = 102998.839, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.526,000] <inf> DoubleDiff402: delta_t = 0.836,Rotating: left_actual_velocity = -437.372, right_actual_velocity = 406.349
+[2025-08-15T03:40:49Z] [00:08:54.536,000] <inf> DoubleDiff402: current_theta: 160.0, current_x: 104998.046, current_y = 102998.747, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.536,000] <inf> DoubleDiff402: delta_t = 0.846,Rotating: left_actual_velocity = -442.619, right_actual_velocity = 411.590
+[2025-08-15T03:40:49Z] [00:08:54.547,000] <inf> DoubleDiff402: current_theta: 161.0, current_x: 104998.056, current_y = 102998.746, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.547,000] <inf> DoubleDiff402: delta_t = 0.857,Rotating: left_actual_velocity = -447.472, right_actual_velocity = 417.392
+[2025-08-15T03:40:49Z] [00:08:54.557,000] <inf> DoubleDiff402: current_theta: 162.0, current_x: 104998.085, current_y = 102998.772, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.557,000] <inf> DoubleDiff402: delta_t = 0.867,Rotating: left_actual_velocity = -445.985, right_actual_velocity = 428.167
+[2025-08-15T03:40:49Z] [00:08:54.568,000] <inf> DoubleDiff402: current_theta: 162.9, current_x: 104998.055, current_y = 102998.783, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.568,000] <inf> DoubleDiff402: delta_t = 0.877,Rotating: left_actual_velocity = -450.096, right_actual_velocity = 438.608
+[2025-08-15T03:40:49Z] [00:08:54.578,000] <inf> DoubleDiff402: current_theta: 164.0, current_x: 104998.152, current_y = 102998.785, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.578,000] <inf> DoubleDiff402: delta_t = 0.888,Rotating: left_actual_velocity = -453.677, right_actual_velocity = 443.891
+[2025-08-15T03:40:49Z] [00:08:54.589,000] <inf> DoubleDiff402: current_theta: 165.0, current_x: 104998.138, current_y = 102998.790, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.589,000] <inf> DoubleDiff402: delta_t = 0.898,Rotating: left_actual_velocity = -456.258, right_actual_velocity = 448.378
+[2025-08-15T03:40:49Z] [00:08:54.599,000] <inf> DoubleDiff402: current_theta: 166.1, current_x: 104998.125, current_y = 102998.794, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.599,000] <inf> DoubleDiff402: delta_t = 0.909,Rotating: left_actual_velocity = -461.620, right_actual_velocity = 456.949
+[2025-08-15T03:40:49Z] [00:08:54.610,000] <inf> DoubleDiff402: current_theta: 167.1, current_x: 104998.096, current_y = 102998.801, v_comm_0 = 8.000
+[2025-08-15T03:40:49Z] [00:08:54.610,000] <inf> DoubleDiff402: delta_t = 0.919,Rotating: left_actual_velocity = -465.489, right_actual_velocity = 466.254
+[2025-08-15T03:40:49Z] [00:08:54.620,000] <inf> DoubleDiff402: current_theta: 168.2, current_x: 104998.055, current_y = 102998.809, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.620,000] <inf> DoubleDiff402: delta_t = 0.930,Rotating: left_actual_velocity = -470.128, right_actual_velocity = 478.469
+[2025-08-15T03:40:49Z] [00:08:54.630,000] <inf> DoubleDiff402: current_theta: 169.2, current_x: 104997.992, current_y = 102998.802, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.631,000] <inf> DoubleDiff402: delta_t = 0.940,Rotating: left_actual_velocity = -477.988, right_actual_velocity = 479.710
+[2025-08-15T03:40:49Z] [00:08:54.641,000] <inf> DoubleDiff402: current_theta: 170.3, current_x: 104997.967, current_y = 102998.789, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.641,000] <inf> DoubleDiff402: delta_t = 0.951,Rotating: left_actual_velocity = -489.570, right_actual_velocity = 477.296
+[2025-08-15T03:40:49Z] [00:08:54.652,000] <inf> DoubleDiff402: current_theta: 171.4, current_x: 104997.869, current_y = 102998.790, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.652,000] <inf> DoubleDiff402: delta_t = 0.962,Rotating: left_actual_velocity = -496.612, right_actual_velocity = 483.894
+[2025-08-15T03:40:49Z] [00:08:54.662,000] <inf> DoubleDiff402: current_theta: 172.5, current_x: 104997.876, current_y = 102998.790, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.662,000] <inf> DoubleDiff402: delta_t = 0.972,Rotating: left_actual_velocity = -502.832, right_actual_velocity = 487.501
+[2025-08-15T03:40:49Z] [00:08:54.673,000] <inf> DoubleDiff402: current_theta: 173.6, current_x: 104997.778, current_y = 102998.791, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.673,000] <inf> DoubleDiff402: delta_t = 0.982,Rotating: left_actual_velocity = -506.901, right_actual_velocity = 491.250
+[2025-08-15T03:40:49Z] [00:08:54.683,000] <inf> DoubleDiff402: current_theta: 174.7, current_x: 104997.812, current_y = 102998.890, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.683,000] <inf> DoubleDiff402: delta_t = 0.993,Rotating: left_actual_velocity = -515.425, right_actual_velocity = 495.046
+[2025-08-15T03:40:49Z] [00:08:54.694,000] <inf> DoubleDiff402: current_theta: 175.9, current_x: 104997.706, current_y = 102998.892, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.694,000] <inf> DoubleDiff402: delta_t = 1.003,Rotating: left_actual_velocity = -520.635, right_actual_velocity = 499.282
+[2025-08-15T03:40:49Z] [00:08:54.704,000] <inf> DoubleDiff402: current_theta: 177.1, current_x: 104997.711, current_y = 102998.894, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.704,000] <inf> DoubleDiff402: delta_t = 1.014,Rotating: left_actual_velocity = -521.551, right_actual_velocity = 501.398
+[2025-08-15T03:40:49Z] [00:08:54.714,000] <inf> DoubleDiff402: current_theta: 178.2, current_x: 104997.605, current_y = 102998.897, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.715,000] <inf> DoubleDiff402: delta_t = 1.024,Rotating: left_actual_velocity = -521.849, right_actual_velocity = 500.879
+[2025-08-15T03:40:49Z] [00:08:54.725,000] <inf> DoubleDiff402: current_theta: 179.4, current_x: 104997.622, current_y = 102998.899, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.725,000] <inf> DoubleDiff402: delta_t = 1.035,Rotating: left_actual_velocity = -518.744, right_actual_velocity = 496.607
+[2025-08-15T03:40:49Z] [00:08:54.735,000] <inf> DoubleDiff402: current_theta: -179.4, current_x: 104997.613, current_y = 102998.901, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.735,000] <inf> DoubleDiff402: delta_t = 1.045,Rotating: left_actual_velocity = -515.959, right_actual_velocity = 493.423
+[2025-08-15T03:40:49Z] [00:08:54.746,000] <inf> DoubleDiff402: current_theta: -178.2, current_x: 104997.650, current_y = 102998.905, v_comm_0 = -8.000
+[2025-08-15T03:40:49Z] [00:08:54.746,000] <inf> DoubleDiff402: delta_t = 1.056,Rotating: left_actual_velocity = -513.399, right_actual_velocity = 486.130
+[2025-08-15T03:40:50Z] [00:08:54.756,000] <inf> DoubleDiff402: current_theta: -176.9, current_x: 104997.630, current_y = 102999.007, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.756,000] <inf> DoubleDiff402: delta_t = 1.066,Rotating: left_actual_velocity = -506.121, right_actual_velocity = 480.155
+[2025-08-15T03:40:50Z] [00:08:54.767,000] <inf> DoubleDiff402: current_theta: -175.8, current_x: 104997.636, current_y = 102999.010, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.767,000] <inf> DoubleDiff402: delta_t = 1.076,Rotating: left_actual_velocity = -499.256, right_actual_velocity = 471.935
+[2025-08-15T03:40:50Z] [00:08:54.777,000] <inf> DoubleDiff402: current_theta: -174.6, current_x: 104997.733, current_y = 102999.013, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.777,000] <inf> DoubleDiff402: delta_t = 1.087,Rotating: left_actual_velocity = -490.722, right_actual_velocity = 466.516
+[2025-08-15T03:40:50Z] [00:08:54.788,000] <inf> DoubleDiff402: current_theta: -173.4, current_x: 104997.691, current_y = 102999.010, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.788,000] <inf> DoubleDiff402: delta_t = 1.097,Rotating: left_actual_velocity = -485.449, right_actual_velocity = 467.181
+[2025-08-15T03:40:50Z] [00:08:54.798,000] <inf> DoubleDiff402: current_theta: -172.2, current_x: 104997.683, current_y = 102999.111, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.798,000] <inf> DoubleDiff402: delta_t = 1.108,Rotating: left_actual_velocity = -478.323, right_actual_velocity = 463.170
+[2025-08-15T03:40:50Z] [00:08:54.809,000] <inf> DoubleDiff402: current_theta: -171.0, current_x: 104997.791, current_y = 102999.114, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.809,000] <inf> DoubleDiff402: delta_t = 1.118,Rotating: left_actual_velocity = -473.076, right_actual_velocity = 454.714
+[2025-08-15T03:40:50Z] [00:08:54.819,000] <inf> DoubleDiff402: current_theta: -169.8, current_x: 104997.802, current_y = 102999.118, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.819,000] <inf> DoubleDiff402: delta_t = 1.129,Rotating: left_actual_velocity = -465.971, right_actual_velocity = 447.205
+[2025-08-15T03:40:50Z] [00:08:54.830,000] <inf> DoubleDiff402: current_theta: -168.6, current_x: 104997.858, current_y = 102999.112, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.830,000] <inf> DoubleDiff402: delta_t = 1.139,Rotating: left_actual_velocity = -455.180, right_actual_velocity = 443.284
+[2025-08-15T03:40:50Z] [00:08:54.840,000] <inf> DoubleDiff402: current_theta: -167.5, current_x: 104998.040, current_y = 102999.231, v_comm_0 = -8.000
+[2025-08-15T03:40:50Z] [00:08:54.840,000] <inf> DoubleDiff402: delta_t = 1.150,Rotating: left_actual_velocity = -458.421, right_actual_velocity = 432.288
+[2025-08-15T03:40:50Z] [00:08:54.851,000] <inf> DoubleDiff402: current_theta: -166.3, current_x: 104998.163, current_y = 102999.340, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.851,000] <inf> DoubleDiff402: delta_t = 1.161,Rotating: left_actual_velocity = -455.295, right_actual_velocity = 424.717
+[2025-08-15T03:40:50Z] [00:08:54.862,000] <inf> DoubleDiff402: current_theta: -165.2, current_x: 104998.271, current_y = 102999.345, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.862,000] <inf> DoubleDiff402: delta_t = 1.172,Rotating: left_actual_velocity = -446.100, right_actual_velocity = 413.904
+[2025-08-15T03:40:50Z] [00:08:54.872,000] <inf> DoubleDiff402: current_theta: -164.1, current_x: 104998.423, current_y = 102999.435, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.872,000] <inf> DoubleDiff402: delta_t = 1.182,Rotating: left_actual_velocity = -439.404, right_actual_velocity = 413.831
+[2025-08-15T03:40:50Z] [00:08:54.883,000] <inf> DoubleDiff402: current_theta: -163.0, current_x: 104998.477, current_y = 102999.424, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.883,000] <inf> DoubleDiff402: delta_t = 1.193,Rotating: left_actual_velocity = -424.094, right_actual_velocity = 409.433
+[2025-08-15T03:40:50Z] [00:08:54.894,000] <inf> DoubleDiff402: current_theta: -161.9, current_x: 104998.662, current_y = 102999.520, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.894,000] <inf> DoubleDiff402: delta_t = 1.204,Rotating: left_actual_velocity = -416.920, right_actual_velocity = 405.071
+[2025-08-15T03:40:50Z] [00:08:54.905,000] <inf> DoubleDiff402: current_theta: -160.8, current_x: 104998.826, current_y = 102999.609, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.905,000] <inf> DoubleDiff402: delta_t = 1.214,Rotating: left_actual_velocity = -405.742, right_actual_velocity = 400.144
+[2025-08-15T03:40:50Z] [00:08:54.915,000] <inf> DoubleDiff402: current_theta: -159.8, current_x: 104999.021, current_y = 102999.708, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.915,000] <inf> DoubleDiff402: delta_t = 1.225,Rotating: left_actual_velocity = -400.961, right_actual_velocity = 396.924
+[2025-08-15T03:40:50Z] [00:08:54.926,000] <inf> DoubleDiff402: current_theta: -158.8, current_x: 104999.100, current_y = 102999.800, v_comm_0 = 8.000
+[2025-08-15T03:40:50Z] [00:08:54.926,000] <inf> DoubleDiff402: delta_t = 1.235,Rotating: left_actual_velocity = -392.955, right_actual_velocity = 392.960
+[2025-08-15T03:40:50Z] [00:08:54.936,000] <inf> DoubleDiff402: current_theta: -157.7, current_x: 104999.180, current_y = 102999.892, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.936,000] <inf> DoubleDiff402: delta_t = 1.246,Rotating: left_actual_velocity = -384.902, right_actual_velocity = 388.924
+[2025-08-15T03:40:50Z] [00:08:54.946,000] <inf> DoubleDiff402: current_theta: -156.8, current_x: 104999.273, current_y = 102999.888, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.946,000] <inf> DoubleDiff402: delta_t = 1.256,Rotating: left_actual_velocity = -378.677, right_actual_velocity = 384.546
+[2025-08-15T03:40:50Z] [00:08:54.957,000] <inf> DoubleDiff402: current_theta: -155.8, current_x: 104999.372, current_y = 102999.987, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.957,000] <inf> DoubleDiff402: delta_t = 1.267,Rotating: left_actual_velocity = -371.325, right_actual_velocity = 376.886
+[2025-08-15T03:40:50Z] [00:08:54.967,000] <inf> DoubleDiff402: current_theta: -154.9, current_x: 104999.503, current_y = 103000.101, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.967,000] <inf> DoubleDiff402: delta_t = 1.277,Rotating: left_actual_velocity = -369.440, right_actual_velocity = 368.875
+[2025-08-15T03:40:50Z] [00:08:54.978,000] <inf> DoubleDiff402: current_theta: -153.9, current_x: 104999.505, current_y = 103000.103, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.978,000] <inf> DoubleDiff402: delta_t = 1.288,Rotating: left_actual_velocity = -365.037, right_actual_velocity = 363.969
+[2025-08-15T03:40:50Z] [00:08:54.988,000] <inf> DoubleDiff402: current_theta: -153.0, current_x: 104999.500, current_y = 103000.100, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.988,000] <inf> DoubleDiff402: delta_t = 1.298,Rotating: left_actual_velocity = -358.157, right_actual_velocity = 358.057
+[2025-08-15T03:40:50Z] [00:08:54.999,000] <inf> DoubleDiff402: current_theta: -152.1, current_x: 104999.487, current_y = 103000.193, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:54.999,000] <inf> DoubleDiff402: delta_t = 1.308,Rotating: left_actual_velocity = -350.455, right_actual_velocity = 353.471
+[2025-08-15T03:40:50Z] [00:08:55.009,000] <inf> DoubleDiff402: current_theta: -151.2, current_x: 104999.481, current_y = 103000.190, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.009,000] <inf> DoubleDiff402: delta_t = 1.319,Rotating: left_actual_velocity = -345.899, right_actual_velocity = 349.816
+[2025-08-15T03:40:50Z] [00:08:55.020,000] <inf> DoubleDiff402: current_theta: -150.4, current_x: 104999.509, current_y = 103000.205, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.020,000] <inf> DoubleDiff402: delta_t = 1.329,Rotating: left_actual_velocity = -341.606, right_actual_velocity = 339.622
+[2025-08-15T03:40:50Z] [00:08:55.030,000] <inf> DoubleDiff402: current_theta: -149.5, current_x: 104999.509, current_y = 103000.206, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.030,000] <inf> DoubleDiff402: delta_t = 1.340,Rotating: left_actual_velocity = -341.606, right_actual_velocity = 339.622
+[2025-08-15T03:40:50Z] [00:08:55.041,000] <inf> DoubleDiff402: current_theta: -148.7, current_x: 104999.512, current_y = 103000.207, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.041,000] <inf> DoubleDiff402: delta_t = 1.350,Rotating: left_actual_velocity = -331.521, right_actual_velocity = 328.778
+[2025-08-15T03:40:50Z] [00:08:55.051,000] <inf> DoubleDiff402: current_theta: -147.8, current_x: 104999.406, current_y = 103000.204, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.051,000] <inf> DoubleDiff402: delta_t = 1.361,Rotating: left_actual_velocity = -326.024, right_actual_velocity = 324.683
+[2025-08-15T03:40:50Z] [00:08:55.062,000] <inf> DoubleDiff402: current_theta: -147.0, current_x: 104999.419, current_y = 103000.212, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.062,000] <inf> DoubleDiff402: delta_t = 1.372,Rotating: left_actual_velocity = -323.380, right_actual_velocity = 319.295
+[2025-08-15T03:40:50Z] [00:08:55.072,000] <inf> DoubleDiff402: current_theta: -146.2, current_x: 104999.422, current_y = 103000.215, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.072,000] <inf> DoubleDiff402: delta_t = 1.382,Rotating: left_actual_velocity = -319.295, right_actual_velocity = 313.965
+[2025-08-15T03:40:50Z] [00:08:55.083,000] <inf> DoubleDiff402: current_theta: -145.3, current_x: 104999.418, current_y = 103000.213, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.083,000] <inf> DoubleDiff402: delta_t = 1.392,Rotating: left_actual_velocity = -314.002, right_actual_velocity = 309.515
+[2025-08-15T03:40:50Z] [00:08:55.093,000] <inf> DoubleDiff402: current_theta: -144.6, current_x: 104999.414, current_y = 103000.210, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.093,000] <inf> DoubleDiff402: delta_t = 1.403,Rotating: left_actual_velocity = -309.043, right_actual_velocity = 305.996
+[2025-08-15T03:40:50Z] [00:08:55.104,000] <inf> DoubleDiff402: current_theta: -143.8, current_x: 104999.283, current_y = 103000.188, v_comm_0 = 1.000
+[2025-08-15T03:40:50Z] [00:08:55.104,000] <inf> DoubleDiff402: delta_t = 1.414,Rotating: left_actual_velocity = -303.341, right_actual_velocity = 307.069
+[2025-08-15T03:40:50Z] [00:08:55.114,000] <inf> DoubleDiff402: current_theta: -143.0, current_x: 104999.301, current_y = 103000.201, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.114,000] <inf> DoubleDiff402: delta_t = 1.424,Rotating: left_actual_velocity = -299.346, right_actual_velocity = 299.079
+[2025-08-15T03:40:51Z] [00:08:55.125,000] <inf> DoubleDiff402: current_theta: -142.2, current_x: 104999.293, current_y = 103000.194, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.125,000] <inf> DoubleDiff402: delta_t = 1.434,Rotating: left_actual_velocity = -291.252, right_actual_velocity = 293.126
+[2025-08-15T03:40:51Z] [00:08:55.135,000] <inf> DoubleDiff402: current_theta: -141.5, current_x: 104999.310, current_y = 103000.208, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.135,000] <inf> DoubleDiff402: delta_t = 1.445,Rotating: left_actual_velocity = -287.717, right_actual_velocity = 285.502
+[2025-08-15T03:40:51Z] [00:08:55.145,000] <inf> DoubleDiff402: current_theta: -140.7, current_x: 104999.197, current_y = 103000.197, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.145,000] <inf> DoubleDiff402: delta_t = 1.455,Rotating: left_actual_velocity = -281.670, right_actual_velocity = 282.476
+[2025-08-15T03:40:51Z] [00:08:55.156,000] <inf> DoubleDiff402: current_theta: -140.0, current_x: 104999.206, current_y = 103000.205, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.156,000] <inf> DoubleDiff402: delta_t = 1.466,Rotating: left_actual_velocity = -277.607, right_actual_velocity = 276.167
+[2025-08-15T03:40:51Z] [00:08:55.166,000] <inf> DoubleDiff402: current_theta: -139.2, current_x: 104999.204, current_y = 103000.203, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.166,000] <inf> DoubleDiff402: delta_t = 1.476,Rotating: left_actual_velocity = -271.014, right_actual_velocity = 269.952
+[2025-08-15T03:40:51Z] [00:08:55.177,000] <inf> DoubleDiff402: current_theta: -138.5, current_x: 104999.206, current_y = 103000.205, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.177,000] <inf> DoubleDiff402: delta_t = 1.487,Rotating: left_actual_velocity = -265.904, right_actual_velocity = 264.501
+[2025-08-15T03:40:51Z] [00:08:55.187,000] <inf> DoubleDiff402: current_theta: -137.8, current_x: 104999.101, current_y = 103000.201, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.187,000] <inf> DoubleDiff402: delta_t = 1.497,Rotating: left_actual_velocity = -260.364, right_actual_velocity = 260.076
+[2025-08-15T03:40:51Z] [00:08:55.198,000] <inf> DoubleDiff402: current_theta: -137.2, current_x: 104999.104, current_y = 103000.203, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.198,000] <inf> DoubleDiff402: delta_t = 1.507,Rotating: left_actual_velocity = -254.793, right_actual_velocity = 253.819
+[2025-08-15T03:40:51Z] [00:08:55.208,000] <inf> DoubleDiff402: current_theta: -136.5, current_x: 104999.109, current_y = 103000.209, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.208,000] <inf> DoubleDiff402: delta_t = 1.518,Rotating: left_actual_velocity = -248.212, right_actual_velocity = 245.908
+[2025-08-15T03:40:51Z] [00:08:55.219,000] <inf> DoubleDiff402: current_theta: -135.9, current_x: 104999.111, current_y = 103000.211, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.219,000] <inf> DoubleDiff402: delta_t = 1.528,Rotating: left_actual_velocity = -243.573, right_actual_velocity = 240.415
+[2025-08-15T03:40:51Z] [00:08:55.229,000] <inf> DoubleDiff402: current_theta: -135.2, current_x: 104999.106, current_y = 103000.206, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.229,000] <inf> DoubleDiff402: delta_t = 1.539,Rotating: left_actual_velocity = -237.719, right_actual_velocity = 236.132
+[2025-08-15T03:40:51Z] [00:08:55.240,000] <inf> DoubleDiff402: current_theta: -134.6, current_x: 104999.109, current_y = 103000.309, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.240,000] <inf> DoubleDiff402: delta_t = 1.549,Rotating: left_actual_velocity = -233.745, right_actual_velocity = 231.137
+[2025-08-15T03:40:51Z] [00:08:55.250,000] <inf> DoubleDiff402: current_theta: -133.4, current_x: 104999.114, current_y = 103000.315, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.250,000] <inf> DoubleDiff402: delta_t = 1.560,Rotating: left_actual_velocity = -224.995, right_actual_velocity = 221.320
+[2025-08-15T03:40:51Z] [00:08:55.261,000] <inf> DoubleDiff402: current_theta: -132.8, current_x: 104999.099, current_y = 103000.299, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.261,000] <inf> DoubleDiff402: delta_t = 1.570,Rotating: left_actual_velocity = -218.168, right_actual_velocity = 218.576
+[2025-08-15T03:40:51Z] [00:08:55.271,000] <inf> DoubleDiff402: current_theta: -132.2, current_x: 104999.116, current_y = 103000.317, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.271,000] <inf> DoubleDiff402: delta_t = 1.581,Rotating: left_actual_velocity = -213.508, right_actual_velocity = 209.219
+[2025-08-15T03:40:51Z] [00:08:55.281,000] <inf> DoubleDiff402: current_theta: -131.7, current_x: 104999.117, current_y = 103000.319, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.281,000] <inf> DoubleDiff402: delta_t = 1.591,Rotating: left_actual_velocity = -209.654, right_actual_velocity = 204.481
+[2025-08-15T03:40:51Z] [00:08:55.292,000] <inf> DoubleDiff402: current_theta: -131.1, current_x: 104999.110, current_y = 103000.311, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.292,000] <inf> DoubleDiff402: delta_t = 1.602,Rotating: left_actual_velocity = -201.784, right_actual_velocity = 199.083
+[2025-08-15T03:40:51Z] [00:08:55.302,000] <inf> DoubleDiff402: current_theta: -130.6, current_x: 104999.123, current_y = 103000.327, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.302,000] <inf> DoubleDiff402: delta_t = 1.612,Rotating: left_actual_velocity = -198.365, right_actual_velocity = 191.380
+[2025-08-15T03:40:51Z] [00:08:55.314,000] <inf> DoubleDiff402: current_theta: -130.0, current_x: 104999.108, current_y = 103000.410, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.314,000] <inf> DoubleDiff402: delta_t = 1.623,Rotating: left_actual_velocity = -191.490, right_actual_velocity = 189.098
+[2025-08-15T03:40:51Z] [00:08:55.324,000] <inf> DoubleDiff402: current_theta: -129.5, current_x: 104999.098, current_y = 103000.398, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.324,000] <inf> DoubleDiff402: delta_t = 1.634,Rotating: left_actual_velocity = -184.600, right_actual_velocity = 185.029
+[2025-08-15T03:40:51Z] [00:08:55.334,000] <inf> DoubleDiff402: current_theta: -129.0, current_x: 104999.106, current_y = 103000.408, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.335,000] <inf> DoubleDiff402: delta_t = 1.644,Rotating: left_actual_velocity = -179.961, right_actual_velocity = 178.029
+[2025-08-15T03:40:51Z] [00:08:55.345,000] <inf> DoubleDiff402: current_theta: -128.6, current_x: 104999.103, current_y = 103000.403, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.345,000] <inf> DoubleDiff402: delta_t = 1.655,Rotating: left_actual_velocity = -173.473, right_actual_velocity = 172.735
+[2025-08-15T03:40:51Z] [00:08:55.355,000] <inf> DoubleDiff402: current_theta: -128.1, current_x: 104999.107, current_y = 103000.408, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.355,000] <inf> DoubleDiff402: delta_t = 1.665,Rotating: left_actual_velocity = -168.881, right_actual_velocity = 166.735
+[2025-08-15T03:40:51Z] [00:08:55.366,000] <inf> DoubleDiff402: current_theta: -127.6, current_x: 104999.112, current_y = 103000.416, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.366,000] <inf> DoubleDiff402: delta_t = 1.676,Rotating: left_actual_velocity = -164.478, right_actual_velocity = 160.792
+[2025-08-15T03:40:51Z] [00:08:55.376,000] <inf> DoubleDiff402: current_theta: -127.2, current_x: 104999.104, current_y = 103000.406, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.376,000] <inf> DoubleDiff402: delta_t = 1.686,Rotating: left_actual_velocity = -158.661, right_actual_velocity = 157.252
+[2025-08-15T03:40:51Z] [00:08:55.387,000] <inf> DoubleDiff402: current_theta: -126.8, current_x: 104999.097, current_y = 103000.397, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.387,000] <inf> DoubleDiff402: delta_t = 1.696,Rotating: left_actual_velocity = -153.802, right_actual_velocity = 154.655
+[2025-08-15T03:40:51Z] [00:08:55.397,000] <inf> DoubleDiff402: current_theta: -126.3, current_x: 104999.104, current_y = 103000.405, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.397,000] <inf> DoubleDiff402: delta_t = 1.707,Rotating: left_actual_velocity = -148.843, right_actual_velocity = 147.765
+[2025-08-15T03:40:51Z] [00:08:55.408,000] <inf> DoubleDiff402: current_theta: -125.9, current_x: 104999.001, current_y = 103000.501, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.408,000] <inf> DoubleDiff402: delta_t = 1.717,Rotating: left_actual_velocity = -143.969, right_actual_velocity = 143.623
+[2025-08-15T03:40:51Z] [00:08:55.418,000] <inf> DoubleDiff402: current_theta: -125.5, current_x: 104999.096, current_y = 103000.494, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.418,000] <inf> DoubleDiff402: delta_t = 1.728,Rotating: left_actual_velocity = -136.968, right_actual_velocity = 138.240
+[2025-08-15T03:40:51Z] [00:08:55.429,000] <inf> DoubleDiff402: current_theta: -125.2, current_x: 104999.107, current_y = 103000.510, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.429,000] <inf> DoubleDiff402: delta_t = 1.738,Rotating: left_actual_velocity = -133.790, right_actual_velocity = 131.345
+[2025-08-15T03:40:51Z] [00:08:55.439,000] <inf> DoubleDiff402: current_theta: -124.8, current_x: 104999.114, current_y = 103000.520, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.439,000] <inf> DoubleDiff402: delta_t = 1.749,Rotating: left_actual_velocity = -129.276, right_actual_velocity = 124.779
+[2025-08-15T03:40:51Z] [00:08:55.450,000] <inf> DoubleDiff402: current_theta: -124.4, current_x: 104999.093, current_y = 103000.490, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.450,000] <inf> DoubleDiff402: delta_t = 1.759,Rotating: left_actual_velocity = -118.349, right_actual_velocity = 120.742
+[2025-08-15T03:40:51Z] [00:08:55.460,000] <inf> DoubleDiff402: current_theta: -124.1, current_x: 104999.009, current_y = 103000.513, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.460,000] <inf> DoubleDiff402: delta_t = 1.770,Rotating: left_actual_velocity = -114.794, right_actual_velocity = 111.909
+[2025-08-15T03:40:51Z] [00:08:55.472,000] <inf> DoubleDiff402: current_theta: -123.8, current_x: 104999.000, current_y = 103000.500, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.472,000] <inf> DoubleDiff402: delta_t = 1.781,Rotating: left_actual_velocity = -108.851, right_actual_velocity = 108.767
+[2025-08-15T03:40:51Z] [00:08:55.482,000] <inf> DoubleDiff402: current_theta: -123.4, current_x: 104999.005, current_y = 103000.507, v_comm_0 = 1.000
+[2025-08-15T03:40:51Z] [00:08:55.482,000] <inf> DoubleDiff402: delta_t = 1.792,Rotating: left_actual_velocity = -104.432, right_actual_velocity = 102.939
+[2025-08-15T03:40:52Z] [00:08:55.492,000] <inf> DoubleDiff402: current_theta: -123.1, current_x: 104999.002, current_y = 103000.503, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.492,000] <inf> DoubleDiff402: delta_t = 1.802,Rotating: left_actual_velocity = -98.002, right_actual_velocity = 97.332
+[2025-08-15T03:40:52Z] [00:08:55.504,000] <inf> DoubleDiff402: current_theta: -122.8, current_x: 104999.092, current_y = 103000.488, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.504,000] <inf> DoubleDiff402: delta_t = 1.814,Rotating: left_actual_velocity = -91.153, right_actual_velocity = 93.598
+[2025-08-15T03:40:52Z] [00:08:55.514,000] <inf> DoubleDiff402: current_theta: -122.5, current_x: 104998.998, current_y = 103000.497, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.514,000] <inf> DoubleDiff402: delta_t = 1.824,Rotating: left_actual_velocity = -86.933, right_actual_velocity = 87.724
+[2025-08-15T03:40:52Z] [00:08:55.525,000] <inf> DoubleDiff402: current_theta: -122.3, current_x: 104999.101, current_y = 103000.502, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.525,000] <inf> DoubleDiff402: delta_t = 1.834,Rotating: left_actual_velocity = -81.723, right_actual_velocity = 81.179
+[2025-08-15T03:40:52Z] [00:08:55.535,000] <inf> DoubleDiff402: current_theta: -122.0, current_x: 104999.105, current_y = 103000.507, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.535,000] <inf> DoubleDiff402: delta_t = 1.845,Rotating: left_actual_velocity = -76.602, right_actual_velocity = 75.053
+[2025-08-15T03:40:52Z] [00:08:55.545,000] <inf> DoubleDiff402: current_theta: -121.7, current_x: 104999.001, current_y = 103000.501, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.546,000] <inf> DoubleDiff402: delta_t = 1.855,Rotating: left_actual_velocity = -70.790, right_actual_velocity = 70.555
+[2025-08-15T03:40:52Z] [00:08:55.556,000] <inf> DoubleDiff402: current_theta: -121.5, current_x: 104999.000, current_y = 103000.500, v_comm_0 = 1.000
+[2025-08-15T03:40:52Z] [00:08:55.556,000] <inf> DoubleDiff402: delta_t = 1.866,Rotating: left_actual_velocity = -64.722, right_actual_velocity = 64.622
+[2025-08-15T03:40:52Z] [00:08:55.566,000] <inf> DoubleDiff402: rotate reached by theta, current_theta: -2.117084, diff_theta: 0.022689.
+[2025-08-15T03:40:52Z] [00:08:55.566,000] <inf> DoubleDiff402: delta_t = 1.876,Rotating: left_actual_velocity = -58.863, right_actual_velocity = 58.329
+[2025-08-15T03:40:52Z] [00:08:55.754,000] <inf> DoubleDiff402: stopped -> current_x: 104999.000007, current_y: 103000.400011, current_theta: -2.094395.
+[2025-08-15T03:40:52Z] [00:08:55.754,000] <inf> DoubleDiff402: rotate target reached.

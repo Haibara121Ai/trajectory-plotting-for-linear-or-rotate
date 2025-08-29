@@ -1,0 +1,314 @@
+[2025-08-05 03:52:48] [00:07:52.098,000]  DoubleDiff402: delta_t: 0.020000, current_theta: -119.500000, current_x: 101014.2045
+25, current_y = 101008.307998.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.108,000]  DoubleDiff402: delta_t: 0.031000, current_theta: -119.600000, current_x: 101014.3447
+36, current_y = 101008.378750.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.118,000]  DoubleDiff402: delta_t: 0.041000, current_theta: -119.600000, current_x: 101014.2130
+74, current_y = 101008.323014.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.129,000]  DoubleDiff402: delta_t: 0.051000, current_theta: -119.600000, current_x: 101014.1965
+73, current_y = 101008.293968.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.139,000]  DoubleDiff402: delta_t: 0.062000, current_theta: -119.600000, current_x: 101014.2053
+63, current_y = 101008.309440.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.149,000]  DoubleDiff402: delta_t: 0.072000, current_theta: -119.600000, current_x: 101014.1963
+79, current_y = 101008.293626.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.160,000]  DoubleDiff402: delta_t: 0.082000, current_theta: -119.600000, current_x: 101014.2916
+72, current_y = 101008.285340.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.170,000]  DoubleDiff402: delta_t: 0.093000, current_theta: -119.600000, current_x: 101014.1962
+31, current_y = 101008.293364.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.180,000]  DoubleDiff402: delta_t: 0.103000, current_theta: -119.600000, current_x: 101014.1979
+70, current_y = 101008.296426.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.191,000]  DoubleDiff402: delta_t: 0.113000, current_theta: -119.600000, current_x: 101014.1937
+67, current_y = 101008.289028.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.201,000]  DoubleDiff402: delta_t: 0.124000, current_theta: -119.700000, current_x: 101014.1957
+91, current_y = 101008.192621.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.211,000]  DoubleDiff402: delta_t: 0.134000, current_theta: -119.800000, current_x: 101014.1997
+79, current_y = 101008.199614.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.222,000]  DoubleDiff402: delta_t: 0.144000, current_theta: -119.900000, current_x: 101014.1006
+13, current_y = 101008.101067.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.232,000]  DoubleDiff402: delta_t: 0.155000, current_theta: -119.900000, current_x: 101014.1039
+48, current_y = 101008.206865.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.243,000]  DoubleDiff402: delta_t: 0.166000, current_theta: -120.100000, current_x: 101014.1054
+01, current_y = 101008.209318.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.253,000]  DoubleDiff402: delta_t: 0.176000, current_theta: -120.200000, current_x: 101014.1049
+12, current_y = 101008.208440.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.264,000]  DoubleDiff402: delta_t: 0.186000, current_theta: -120.300000, current_x: 101014.1021
+93, current_y = 101008.203752.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.276,000]  DoubleDiff402: delta_t: 0.198000, current_theta: -120.500000, current_x: 101014.0977
+20, current_y = 101008.196129.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.286,000]  DoubleDiff402: delta_t: 0.209000, current_theta: -120.700000, current_x: 101014.0975
+15, current_y = 101008.195815.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.296,000]  DoubleDiff402: delta_t: 0.219000, current_theta: -120.800000, current_x: 101014.0982
+31, current_y = 101008.297032.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.307,000]  DoubleDiff402: delta_t: 0.229000, current_theta: -121.100000, current_x: 101014.1980
+39, current_y = 101008.296750.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.317,000]  DoubleDiff402: delta_t: 0.240000, current_theta: -121.300000, current_x: 101014.2017
+95, current_y = 101008.302953.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.327,000]  DoubleDiff402: delta_t: 0.250000, current_theta: -121.600000, current_x: 101014.2055
+28, current_y = 101008.308986.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.338,000]  DoubleDiff402: delta_t: 0.260000, current_theta: -121.800000, current_x: 101014.2041
+80, current_y = 101008.406742.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.348,000]  DoubleDiff402: delta_t: 0.271000, current_theta: -122.100000, current_x: 101014.2007
+04, current_y = 101008.401122.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.358,000]  DoubleDiff402: delta_t: 0.281000, current_theta: -122.500000, current_x: 101014.2012
+94, current_y = 101008.402031.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.369,000]  DoubleDiff402: delta_t: 0.291000, current_theta: -122.800000, current_x: 101014.2035
+31, current_y = 101008.405479.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.379,000]  DoubleDiff402: delta_t: 0.302000, current_theta: -123.100000, current_x: 101014.2042
+62, current_y = 101008.406538.                                                                                                     
+[2025-08-05 03:52:48] [00:07:52.389,000]  DoubleDiff402: delta_t: 0.312000, current_theta: -123.500000, current_x: 101014.3029
+19, current_y = 101008.504410.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.400,000]  DoubleDiff402: delta_t: 0.322000, current_theta: -123.900000, current_x: 101014.3003
+94, current_y = 101008.500587.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.410,000]  DoubleDiff402: delta_t: 0.333000, current_theta: -124.200000, current_x: 101014.2958
+24, current_y = 101008.593855.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.420,000]  DoubleDiff402: delta_t: 0.343000, current_theta: -124.600000, current_x: 101014.2981
+71, current_y = 101008.597349.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.431,000]  DoubleDiff402: delta_t: 0.353000, current_theta: -125.000000, current_x: 101014.3019
+22, current_y = 101008.602745.                                                                                                                 
+[2025-08-05 03:52:49] [00:07:52.441,000]  DoubleDiff402: delta_t: 0.364000, current_theta: -125.400000, current_x: 101014.3999
+17, current_y = 101008.699883.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.451,000]  DoubleDiff402: delta_t: 0.374000, current_theta: -125.900000, current_x: 101014.3994
+01, current_y = 101008.699173.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.462,000]  DoubleDiff402: delta_t: 0.384000, current_theta: -126.400000, current_x: 101014.4015
+54, current_y = 101008.802107.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.472,000]  DoubleDiff402: delta_t: 0.395000, current_theta: -126.800000, current_x: 101014.4094
+19, current_y = 101008.812590.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.482,000]  DoubleDiff402: delta_t: 0.405000, current_theta: -127.300000, current_x: 101014.5088
+21, current_y = 101008.911579.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.493,000]  DoubleDiff402: delta_t: 0.416000, current_theta: -127.800000, current_x: 101014.4976
+52, current_y = 101008.896974.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.503,000]  DoubleDiff402: delta_t: 0.426000, current_theta: -128.300000, current_x: 101014.4973
+07, current_y = 101008.896589.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.513,000]  DoubleDiff402: delta_t: 0.436000, current_theta: -128.900000, current_x: 101014.5012
+00, current_y = 101009.001487.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.524,000]  DoubleDiff402: delta_t: 0.446000, current_theta: -129.400000, current_x: 101014.6085
+08, current_y = 101009.110358.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.534,000]  DoubleDiff402: delta_t: 0.457000, current_theta: -129.900000, current_x: 101014.5946
+61, current_y = 101009.093615.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.544,000]  DoubleDiff402: delta_t: 0.467000, current_theta: -130.500000, current_x: 101014.5909
+72, current_y = 101009.089429.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.555,000]  DoubleDiff402: delta_t: 0.478000, current_theta: -131.100000, current_x: 101014.7037
+48, current_y = 101009.204297.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.566,000]  DoubleDiff402: delta_t: 0.489000, current_theta: -131.700000, current_x: 101014.6949
+23, current_y = 101009.294302.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.576,000]  DoubleDiff402: delta_t: 0.499000, current_theta: -132.400000, current_x: 101014.6982
+17, current_y = 101009.298047.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.587,000]  DoubleDiff402: delta_t: 0.510000, current_theta: -133.000000, current_x: 101014.8029
+26, current_y = 101009.303138.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.597,000]  DoubleDiff402: delta_t: 0.520000, current_theta: -133.600000, current_x: 101014.7986
+82, current_y = 101009.398616.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.607,000]  DoubleDiff402: delta_t: 0.530000, current_theta: -134.300000, current_x: 101014.7991
+41, current_y = 101009.499119.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.618,000]  DoubleDiff402: delta_t: 0.540000, current_theta: -135.000000, current_x: 101014.8924
+47, current_y = 101009.492447.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.628,000]  DoubleDiff402: delta_t: 0.551000, current_theta: -135.600000, current_x: 101014.9001
+85, current_y = 101009.600181.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.638,000]  DoubleDiff402: delta_t: 0.561000, current_theta: -136.300000, current_x: 101014.9086
+12, current_y = 101009.608230.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.648,000]  DoubleDiff402: delta_t: 0.571000, current_theta: -137.100000, current_x: 101015.0032
+79, current_y = 101009.703047.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.659,000]  DoubleDiff402: delta_t: 0.582000, current_theta: -137.800000, current_x: 101014.9930
+88, current_y = 101009.793732.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.669,000]  DoubleDiff402: delta_t: 0.592000, current_theta: -138.600000, current_x: 101015.0891
+21, current_y = 101009.790409.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.679,000]  DoubleDiff402: delta_t: 0.602000, current_theta: -139.300000, current_x: 101015.0879
+13, current_y = 101009.889603.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.690,000]  DoubleDiff402: delta_t: 0.613000, current_theta: -140.100000, current_x: 101015.1965
+54, current_y = 101009.997118.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.700,000]  DoubleDiff402: delta_t: 0.623000, current_theta: -140.900000, current_x: 101015.1915
+28, current_y = 101009.993115.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.710,000]  DoubleDiff402: delta_t: 0.633000, current_theta: -141.700000, current_x: 101015.2831
+94, current_y = 101010.086727.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.721,000]  DoubleDiff402: delta_t: 0.643000, current_theta: -142.600000, current_x: 101015.2907
+45, current_y = 101010.192924.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.731,000]  DoubleDiff402: delta_t: 0.654000, current_theta: -143.400000, current_x: 101015.3859
+90, current_y = 101010.289595.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.741,000]  DoubleDiff402: delta_t: 0.664000, current_theta: -144.300000, current_x: 101015.3911
+13, current_y = 101010.393614.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.752,000]  DoubleDiff402: delta_t: 0.674000, current_theta: -145.100000, current_x: 101015.4901
+02, current_y = 101010.393095.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.762,000]  DoubleDiff402: delta_t: 0.685000, current_theta: -146.000000, current_x: 101015.4949
+15, current_y = 101010.496570.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.772,000]  DoubleDiff402: delta_t: 0.695000, current_theta: -146.900000, current_x: 101015.6075
+66, current_y = 101010.604932.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.783,000]  DoubleDiff402: delta_t: 0.705000, current_theta: -147.900000, current_x: 101015.6044
+36, current_y = 101010.602782.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.793,000]  DoubleDiff402: delta_t: 0.716000, current_theta: -148.800000, current_x: 101015.7058
+38, current_y = 101010.703536.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.804,000]  DoubleDiff402: delta_t: 0.727000, current_theta: -149.700000, current_x: 101015.8004
+97, current_y = 101010.800291.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.816,000]  DoubleDiff402: delta_t: 0.739000, current_theta: -150.700000, current_x: 101015.7991
+51, current_y = 101010.899523.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.826,000]  DoubleDiff402: delta_t: 0.749000, current_theta: -151.600000, current_x: 101015.9020
+50, current_y = 101011.001108.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.837,000]  DoubleDiff402: delta_t: 0.760000, current_theta: -152.600000, current_x: 101016.0173
+35, current_y = 101011.108985.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.847,000]  DoubleDiff402: delta_t: 0.770000, current_theta: -153.700000, current_x: 101016.0997
+89, current_y = 101011.199896.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.857,000]  DoubleDiff402: delta_t: 0.780000, current_theta: -154.700000, current_x: 101016.1870
+53, current_y = 101011.193880.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.868,000]  DoubleDiff402: delta_t: 0.791000, current_theta: -155.700000, current_x: 101016.2833
+07, current_y = 101011.292463.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.878,000]  DoubleDiff402: delta_t: 0.801000, current_theta: -156.700000, current_x: 101016.3865
+83, current_y = 101011.394222.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.888,000]  DoubleDiff402: delta_t: 0.811000, current_theta: -157.800000, current_x: 101016.4978
+18, current_y = 101011.499110.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.899,000]  DoubleDiff402: delta_t: 0.822000, current_theta: -158.900000, current_x: 101016.5800
+91, current_y = 101011.592318.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.909,000]  DoubleDiff402: delta_t: 0.832000, current_theta: -160.000000, current_x: 101016.6989
+18, current_y = 101011.699606.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.919,000]  DoubleDiff402: delta_t: 0.842000, current_theta: -161.100000, current_x: 101016.8128
+80, current_y = 101011.804410.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.930,000]  DoubleDiff402: delta_t: 0.853000, current_theta: -162.200000, current_x: 101016.8852
+48, current_y = 101011.895264.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.940,000]  DoubleDiff402: delta_t: 0.863000, current_theta: -163.400000, current_x: 101017.0817
+35, current_y = 101011.994555.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.950,000]  DoubleDiff402: delta_t: 0.873000, current_theta: -164.500000, current_x: 101017.1862
+26, current_y = 101012.096180.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.961,000]  DoubleDiff402: delta_t: 0.883000, current_theta: -165.700000, current_x: 101017.2866
+81, current_y = 101012.196605.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.972,000]  DoubleDiff402: delta_t: 0.895000, current_theta: -166.900000, current_x: 101017.4130
+96, current_y = 101012.203048.                                                                                                     
+[2025-08-05 03:52:49] [00:07:52.982,000]  DoubleDiff402: delta_t: 0.905000, current_theta: -168.100000, current_x: 101017.5088
+64, current_y = 101012.301868.                                                                                       
+[2025-08-05 03:52:49] [00:07:52.993,000]  DoubleDiff402: delta_t: 0.916000, current_theta: -169.300000, current_x: 101017.5914
+83, current_y = 101012.398391.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.003,000]  DoubleDiff402: delta_t: 0.926000, current_theta: -170.600000, current_x: 101017.7901
+08, current_y = 101012.498362.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.014,000]  DoubleDiff402: delta_t: 0.936000, current_theta: -171.800000, current_x: 101018.0027
+73, current_y = 101012.600400.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.024,000]  DoubleDiff402: delta_t: 0.947000, current_theta: -173.100000, current_x: 101018.0922
+52, current_y = 101012.699062.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.034,000]  DoubleDiff402: delta_t: 0.957000, current_theta: -174.300000, current_x: 101018.2693
+13, current_y = 101012.796937.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.045,000]  DoubleDiff402: delta_t: 0.967000, current_theta: -175.700000, current_x: 101018.3941
+78, current_y = 101012.899562.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.055,000]  DoubleDiff402: delta_t: 0.978000, current_theta: -177.000000, current_x: 101018.6420
+74, current_y = 101013.002205.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.066,000]  DoubleDiff402: delta_t: 0.988000, current_theta: -178.300000, current_x: 101018.7847
+59, current_y = 101013.002516.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.076,000]  DoubleDiff402: delta_t: 0.999000, current_theta: -179.700000, current_x: 101019.0614
+54, current_y = 101013.100322.                                                                                                     
+[2025-08-05 03:52:50] [00:07:53.086,000]  DoubleDiff402: delta_t: 1.009000, current_theta: 179.000000, current_x: 101019.15127
+9, current_y = 101013.199105.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.097,000]  DoubleDiff402: delta_t: 1.019000, current_theta: 177.600000, current_x: 101019.34441
+4, current_y = 101013.198138.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.107,000]  DoubleDiff402: delta_t: 1.030000, current_theta: 176.200000, current_x: 101019.54468
+2, current_y = 101013.297032.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.117,000]  DoubleDiff402: delta_t: 1.040000, current_theta: 174.800000, current_x: 101019.72531
+6, current_y = 101013.397696.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.128,000]  DoubleDiff402: delta_t: 1.050000, current_theta: 173.500000, current_x: 101019.90689
+3, current_y = 101013.399215.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.138,000]  DoubleDiff402: delta_t: 1.061000, current_theta: 172.100000, current_x: 101020.07880
+6, current_y = 101013.402941.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.148,000]  DoubleDiff402: delta_t: 1.071000, current_theta: 170.700000, current_x: 101020.15349
+6, current_y = 101013.407615.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.159,000]  DoubleDiff402: delta_t: 1.081000, current_theta: 169.400000, current_x: 101020.34459
+7, current_y = 101013.410368.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.169,000]  DoubleDiff402: delta_t: 1.092000, current_theta: 168.000000, current_x: 101020.54431
+1, current_y = 101013.411837.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.179,000]  DoubleDiff402: delta_t: 1.102000, current_theta: 166.700000, current_x: 101020.75228
+0, current_y = 101013.411280.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.190,000]  DoubleDiff402: delta_t: 1.112000, current_theta: 165.400000, current_x: 101020.85829
+9, current_y = 101013.410862.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.200,000]  DoubleDiff402: delta_t: 1.123000, current_theta: 164.200000, current_x: 101020.96270
+3, current_y = 101013.410554.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.210,000]  DoubleDiff402: delta_t: 1.133000, current_theta: 162.900000, current_x: 101021.07377
+6, current_y = 101013.408067.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.221,000]  DoubleDiff402: delta_t: 1.143000, current_theta: 161.700000, current_x: 101021.16629
+5, current_y = 101013.411147.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.231,000]  DoubleDiff402: delta_t: 1.154000, current_theta: 160.500000, current_x: 101021.27366
+8, current_y = 101013.409325.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.241,000]  DoubleDiff402: delta_t: 1.164000, current_theta: 159.300000, current_x: 101021.28513
+5, current_y = 101013.405617.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.252,000]  DoubleDiff402: delta_t: 1.174000, current_theta: 158.100000, current_x: 101021.19426
+7, current_y = 101013.402304.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.262,000]  DoubleDiff402: delta_t: 1.185000, current_theta: 156.900000, current_x: 101021.28943
+1, current_y = 101013.404508.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.272,000]  DoubleDiff402: delta_t: 1.195000, current_theta: 155.800000, current_x: 101021.29006
+6, current_y = 101013.504464.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.283,000]  DoubleDiff402: delta_t: 1.206000, current_theta: 144.700000, current_x: 101021.59391
+3, current_y = 101013.304310.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.293,000]  DoubleDiff402: delta_t: 1.216000, current_theta: 143.800000, current_x: 101021.58512
+7, current_y = 101013.310885.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.305,000]  DoubleDiff402: delta_t: 1.227000, current_theta: 142.900000, current_x: 101021.60521
+4, current_y = 101013.296057.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.315,000]  DoubleDiff402: delta_t: 1.238000, current_theta: 140.979892, current_x: 101021.61523
+7, current_y = 101013.287934.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.326,000]  DoubleDiff402: delta_t: 1.249000, current_theta: 142.000000, current_x: 101021.69596
+1, current_y = 101013.303156.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.337,000]  DoubleDiff402: delta_t: 1.259000, current_theta: 141.200000, current_x: 101021.69553
+2, current_y = 101013.203593.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.347,000]  DoubleDiff402: delta_t: 1.270000, current_theta: 140.300000, current_x: 101021.79189
+1, current_y = 101013.206733.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.357,000]  DoubleDiff402: delta_t: 1.280000, current_theta: 139.500000, current_x: 101021.80979
+4, current_y = 101013.191635.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.368,000]  DoubleDiff402: delta_t: 1.290000, current_theta: 138.700000, current_x: 101021.78900
+6, current_y = 101013.209659.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.378,000]  DoubleDiff402: delta_t: 1.301000, current_theta: 138.000000, current_x: 101021.79676
+8, current_y = 101013.102910.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.388,000]  DoubleDiff402: delta_t: 1.311000, current_theta: 137.300000, current_x: 101021.79459
+4, current_y = 101013.104989.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.398,000]  DoubleDiff402: delta_t: 1.321000, current_theta: 136.600000, current_x: 101021.90104
+6, current_y = 101013.099011.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.409,000]  DoubleDiff402: delta_t: 1.332000, current_theta: 135.800000, current_x: 101021.90245
+7, current_y = 101013.097611.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.419,000]  DoubleDiff402: delta_t: 1.342000, current_theta: 135.200000, current_x: 101021.88996
+9, current_y = 101013.109962.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.429,000]  DoubleDiff402: delta_t: 1.352000, current_theta: 134.500000, current_x: 101021.89754
+1, current_y = 101013.102502.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.440,000]  DoubleDiff402: delta_t: 1.363000, current_theta: 133.800000, current_x: 101021.89003
+4, current_y = 101013.010393.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.450,000]  DoubleDiff402: delta_t: 1.373000, current_theta: 133.200000, current_x: 101022.00358
+4, current_y = 101012.996183.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.460,000]  DoubleDiff402: delta_t: 1.383000, current_theta: 132.600000, current_x: 101021.98197
+8, current_y = 101013.019599.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.471,000]  DoubleDiff402: delta_t: 1.394000, current_theta: 131.900000, current_x: 101021.99707
+7, current_y = 101013.003258.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.481,000]  DoubleDiff402: delta_t: 1.404000, current_theta: 131.300000, current_x: 101021.99130
+9, current_y = 101013.009893.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.491,000]  DoubleDiff402: delta_t: 1.414000, current_theta: 130.700000, current_x: 101022.00507
+0, current_y = 101012.994105.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.502,000]  DoubleDiff402: delta_t: 1.424000, current_theta: 130.100000, current_x: 101022.09954
+5, current_y = 101012.900541.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.512,000]  DoubleDiff402: delta_t: 1.435000, current_theta: 129.600000, current_x: 101022.09671
+4, current_y = 101012.903972.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.522,000]  DoubleDiff402: delta_t: 1.445000, current_theta: 129.000000, current_x: 101022.09917
+6, current_y = 101012.901017.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.532,000]  DoubleDiff402: delta_t: 1.455000, current_theta: 128.500000, current_x: 101022.09587
+7, current_y = 101012.905184.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.543,000]  DoubleDiff402: delta_t: 1.466000, current_theta: 127.900000, current_x: 101022.11204
+7, current_y = 101012.884525.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.554,000]  DoubleDiff402: delta_t: 1.476000, current_theta: 127.400000, current_x: 101022.09874
+4, current_y = 101012.801643.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.564,000]  DoubleDiff402: delta_t: 1.487000, current_theta: 126.900000, current_x: 101022.09799
+4, current_y = 101012.802671.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.574,000]  DoubleDiff402: delta_t: 1.497000, current_theta: 126.400000, current_x: 101022.10467
+6, current_y = 101012.793657.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.585,000]  DoubleDiff402: delta_t: 1.508000, current_theta: 126.000000, current_x: 101022.19285
+7, current_y = 101012.809832.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.595,000]  DoubleDiff402: delta_t: 1.518000, current_theta: 125.600000, current_x: 101022.19704
+3, current_y = 101012.804130.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.605,000]  DoubleDiff402: delta_t: 1.528000, current_theta: 125.100000, current_x: 101022.21138
+1, current_y = 101012.783807.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.616,000]  DoubleDiff402: delta_t: 1.539000, current_theta: 124.700000, current_x: 101022.19718
+0, current_y = 101012.804072.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.626,000]  DoubleDiff402: delta_t: 1.549000, current_theta: 124.300000, current_x: 101022.20472
+1, current_y = 101012.793079.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.637,000]  DoubleDiff402: delta_t: 1.559000, current_theta: 123.900000, current_x: 101022.19776
+6, current_y = 101012.803325.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.647,000]  DoubleDiff402: delta_t: 1.570000, current_theta: 123.500000, current_x: 101022.19982
+5, current_y = 101012.700264.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.657,000]  DoubleDiff402: delta_t: 1.580000, current_theta: 123.200000, current_x: 101022.20407
+1, current_y = 101012.693779.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.668,000]  DoubleDiff402: delta_t: 1.590000, current_theta: 122.800000, current_x: 101022.20818
+3, current_y = 101012.687303.                                                                                                      
+[2025-08-05 03:52:50] [00:07:53.678,000]  DoubleDiff402: delta_t: 1.601000, current_theta: 122.500000, current_x: 101022.29682
+8, current_y = 101012.704979.                                                                                                      
+[2025-08-05 03:52:51] [00:07:53.688,000]  DoubleDiff402: delta_t: 1.611000, current_theta: 122.200000, current_x: 101022.29375
+0, current_y = 101012.709925.                                                                                                                                                                                                       
+[2025-08-05 03:52:51] [00:07:53.699,000]  DoubleDiff402: delta_t: 1.621000, current_theta: 121.900000, current_x: 101022.29970
+9, current_y = 101012.700467.                                                                                                      
+[2025-08-05 03:52:51] [00:07:53.709,000]  DoubleDiff402: delta_t: 1.632000, current_theta: 121.600000, current_x: 101022.30439
+1, current_y = 101012.692862.                                                                                                      
+[2025-08-05 03:52:51] [00:07:53.719,000]  DoubleDiff402: delta_t: 1.633000, current_theta: 120.200000, current_x: 101022.39922
+4, current_y = 101012.699615                                                                                                                                                                                                                                                

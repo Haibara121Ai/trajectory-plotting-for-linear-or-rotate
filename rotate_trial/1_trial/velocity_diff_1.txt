@@ -1,0 +1,330 @@
+[2025-08-05 09:01:50] [00:19:56.028,000]  DoubleDiff402: Rotating: left_actual_velocity = 0.000000, right_actual_velocity = 0.
+000000                                                                                                                             
+[2025-08-05 09:01:50] [00:19:56.039,000]  DoubleDiff402: Rotating: left_actual_velocity = -2.450440, right_actual_velocity = 1
+.455603                                                                                                                                                                         
+[2025-08-05 09:01:50] [00:19:56.050,000]  DoubleDiff402: Rotating: left_actual_velocity = -21.949238, right_actual_velocity = 
+15.205293                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.061,000]  DoubleDiff402: Rotating: left_actual_velocity = -21.849755, right_actual_velocity = 
+17.948948                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.071,000]  DoubleDiff402: Rotating: left_actual_velocity = -24.101227, right_actual_velocity = 
+23.818484                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.081,000]  DoubleDiff402: Rotating: left_actual_velocity = -28.886915, right_actual_velocity = 
+30.080719                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.092,000]  DoubleDiff402: Rotating: left_actual_velocity = -34.290449, right_actual_velocity = 
+35.939783                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.102,000]  DoubleDiff402: Rotating: left_actual_velocity = -40.646932, right_actual_velocity = 
+42.123479                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.112,000]  DoubleDiff402: Rotating: left_actual_velocity = -46.898695, right_actual_velocity = 
+48.443309                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.123,000]  DoubleDiff402: Rotating: left_actual_velocity = -53.448909, right_actual_velocity = 
+54.904512                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.133,000]  DoubleDiff402: Rotating: left_actual_velocity = -61.632749, right_actual_velocity = 
+61.098679                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.143,000]  DoubleDiff402: Rotating: left_actual_velocity = -68.858405, right_actual_velocity = 
+68.889821                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.154,000]  DoubleDiff402: Rotating: left_actual_velocity = -77.110313, right_actual_velocity = 
+77.654855                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.164,000]  DoubleDiff402: Rotating: left_actual_velocity = -85.613549, right_actual_velocity = 
+85.885820                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.174,000]  DoubleDiff402: Rotating: left_actual_velocity = -93.959705, right_actual_velocity = 
+96.122165                                                                                                                          
+[2025-08-05 09:01:50] [00:19:56.184,000]  DoubleDiff402: Rotating: left_actual_velocity = -104.007555, right_actual_velocity =
+ 105.426506                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.195,000]  DoubleDiff402: Rotating: left_actual_velocity = -113.934978, right_actual_velocity =
+ 114.474284                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.205,000]  DoubleDiff402: Rotating: left_actual_velocity = -122.249718, right_actual_velocity =
+ 122.736664                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.215,000]  DoubleDiff402: Rotating: left_actual_velocity = -130.229355, right_actual_velocity =
+ 130.250299                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.226,000]  DoubleDiff402: Rotating: left_actual_velocity = -138.030969, right_actual_velocity =
+ 138.491735                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.236,000]  DoubleDiff402: Rotating: left_actual_velocity = -145.565548, right_actual_velocity =
+ 147.832728                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.247,000]  DoubleDiff402: Rotating: left_actual_velocity = -152.911631, right_actual_velocity =
+ 156.571583                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.258,000]  DoubleDiff402: Rotating: left_actual_velocity = -159.058674, right_actual_velocity =
+ 162.545839                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.269,000]  DoubleDiff402: Rotating: left_actual_velocity = -165.535585, right_actual_velocity =
+ 167.122087                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.280,000]  DoubleDiff402: Rotating: left_actual_velocity = -177.552164, right_actual_velocity =
+ 176.033729                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.291,000]  DoubleDiff402: Rotating: left_actual_velocity = -182.348324, right_actual_velocity =
+ 180.143976                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.301,000]  DoubleDiff402: Rotating: left_actual_velocity = -186.275311, right_actual_velocity =
+ 185.814544                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.312,000]  DoubleDiff402: Rotating: left_actual_velocity = -191.616013, right_actual_velocity =
+ 192.443298                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.322,000]  DoubleDiff402: Rotating: left_actual_velocity = -197.815416, right_actual_velocity =
+ 199.176772                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.332,000]  DoubleDiff402: Rotating: left_actual_velocity = -203.711132, right_actual_velocity =
+ 205.852649                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.343,000]  DoubleDiff402: Rotating: left_actual_velocity = -212.743202, right_actual_velocity =
+ 213.130665                 
+[2025-08-05 09:01:50] [00:19:56.363,000]  DoubleDiff402: Rotating: left_actual_velocity = -226.864647, right_actual_velocity =
+ 227.786180                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.374,000]  DoubleDiff402: Rotating: left_actual_velocity = -234.001291, right_actual_velocity =
+ 234.713384                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.384,000]  DoubleDiff402: Rotating: left_actual_velocity = -240.907552, right_actual_velocity =
+ 242.122300                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.394,000]  DoubleDiff402: Rotating: left_actual_velocity = -249.101864, right_actual_velocity =
+ 249.902969                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.404,000]  DoubleDiff402: Rotating: left_actual_velocity = -256.783050, right_actual_velocity =
+ 256.002889                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.415,000]  DoubleDiff402: Rotating: left_actual_velocity = -263.699783, right_actual_velocity =
+ 262.144696                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.425,000]  DoubleDiff402: Rotating: left_actual_velocity = -269.103317, right_actual_velocity =
+ 265.610917                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.435,000]  DoubleDiff402: Rotating: left_actual_velocity = -274.993797, right_actual_velocity =
+ 274.307884                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.446,000]  DoubleDiff402: Rotating: left_actual_velocity = -281.465472, right_actual_velocity =
+ 282.491724                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.456,000]  DoubleDiff402: Rotating: left_actual_velocity = -288.141349, right_actual_velocity =
+ 287.910966                                                                                                                        
+[2025-08-05 09:01:50] [00:19:56.466,000]  DoubleDiff402: Rotating: left_actual_velocity = -295.953435, right_actual_velocity =
+ 292.309191                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.476,000]  DoubleDiff402: Rotating: left_actual_velocity = -302.268030, right_actual_velocity =
+ 300.126513                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.488,000]  DoubleDiff402: Rotating: left_actual_velocity = -309.011975, right_actual_velocity =
+ 308.477905                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.498,000]  DoubleDiff402: Rotating: left_actual_velocity = -315.410346, right_actual_velocity =
+ 314.048990                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.508,000]  DoubleDiff402: Rotating: left_actual_velocity = -320.148910, right_actual_velocity =
+ 317.708942                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.518,000]  DoubleDiff402: Rotating: left_actual_velocity = -320.913363, right_actual_velocity =
+ 319.541536                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.529,000]  DoubleDiff402: Rotating: left_actual_velocity = -324.735630, right_actual_velocity =
+ 324.714686                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.539,000]  DoubleDiff402: Rotating: left_actual_velocity = -329.819769, right_actual_velocity =
+ 331.594767                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.550,000]  DoubleDiff402: Rotating: left_actual_velocity = -340.846748, right_actual_velocity =
+ 339.553461                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.560,000]  DoubleDiff402: Rotating: left_actual_velocity = -344.061642, right_actual_velocity =
+ 344.333913                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.571,000]  DoubleDiff402: Rotating: left_actual_velocity = -349.920706, right_actual_velocity =
+ 350.920778                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.581,000]  DoubleDiff402: Rotating: left_actual_velocity = -357.669960, right_actual_velocity =
+ 356.376672                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.591,000]  DoubleDiff402: Rotating: left_actual_velocity = -365.351146, right_actual_velocity =
+ 361.539351                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.602,000]  DoubleDiff402: Rotating: left_actual_velocity = -370.686612, right_actual_velocity =
+ 367.764934                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.612,000]  DoubleDiff402: Rotating: left_actual_velocity = -376.598036, right_actual_velocity =
+ 373.838674                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.622,000]  DoubleDiff402: Rotating: left_actual_velocity = -384.305402, right_actual_velocity =
+ 380.692575                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.633,000]  DoubleDiff402: Rotating: left_actual_velocity = -391.593890, right_actual_velocity =
+ 388.431357                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.643,000]  DoubleDiff402: Rotating: left_actual_velocity = -396.206791, right_actual_velocity =
+ 394.321837                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.653,000]  DoubleDiff402: Rotating: left_actual_velocity = -404.579126, right_actual_velocity =
+ 401.531785                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.664,000]  DoubleDiff402: Rotating: left_actual_velocity = -412.197481, right_actual_velocity =
+ 406.485024                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.674,000]  DoubleDiff402: Rotating: left_actual_velocity = -415.721297, right_actual_velocity =
+ 413.710680                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.684,000]  DoubleDiff402: Rotating: left_actual_velocity = -421.386630, right_actual_velocity =
+ 422.988841                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.695,000]  DoubleDiff402: Rotating: left_actual_velocity = -430.476296, right_actual_velocity =
+ 429.758966                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.705,000]  DoubleDiff402: Rotating: left_actual_velocity = -436.900846, right_actual_velocity =
+ 435.790818                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.715,000]  DoubleDiff402: Rotating: left_actual_velocity = -443.869939, right_actual_velocity =
+ 441.257183                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.726,000]  DoubleDiff402: Rotating: left_actual_velocity = -452.095667, right_actual_velocity =
+ 449.980330                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.736,000]  DoubleDiff402: Rotating: left_actual_velocity = -456.609084, right_actual_velocity =
+ 456.750455                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.747,000]  DoubleDiff402: Rotating: left_actual_velocity = -463.740492, right_actual_velocity =
+ 462.745655                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.759,000]  DoubleDiff402: Rotating: left_actual_velocity = -472.531706, right_actual_velocity =
+ 470.447785                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.769,000]  DoubleDiff402: Rotating: left_actual_velocity = -476.825212, right_actual_velocity =
+ 474.411424                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.780,000]  DoubleDiff402: Rotating: left_actual_velocity = -483.249762, right_actual_velocity =
+ 481.244381                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.790,000]  DoubleDiff402: Rotating: left_actual_velocity = -494.679912, right_actual_velocity =
+ 497.088464                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.801,000]  DoubleDiff402: Rotating: left_actual_velocity = -503.094136, right_actual_velocity =
+ 502.722381                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.811,000]  DoubleDiff402: Rotating: left_actual_velocity = -512.257105, right_actual_velocity =
+ 508.136387                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.821,000]  DoubleDiff402: Rotating: left_actual_velocity = -517.953854, right_actual_velocity =
+ 514.084463                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.832,000]  DoubleDiff402: Rotating: left_actual_velocity = -525.975379, right_actual_velocity =
+ 523.310264                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.842,000]  DoubleDiff402: Rotating: left_actual_velocity = -532.117186, right_actual_velocity =
+ 528.310627                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.852,000]  DoubleDiff402: Rotating: left_actual_velocity = -538.012903, right_actual_velocity =
+ 535.473451                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.863,000]  DoubleDiff402: Rotating: left_actual_velocity = -543.107514, right_actual_velocity =
+ 542.473960                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.873,000]  DoubleDiff402: Rotating: left_actual_velocity = -549.280737, right_actual_velocity =
+ 549.034646                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.883,000]  DoubleDiff402: Rotating: left_actual_velocity = -555.768119, right_actual_velocity =
+ 556.584932                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.893,000]  DoubleDiff402: Rotating: left_actual_velocity = -565.344731, right_actual_velocity =
+ 560.234412                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.904,000]  DoubleDiff402: Rotating: left_actual_velocity = -570.921052, right_actual_velocity =
+ 565.648418                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.914,000]  DoubleDiff402: Rotating: left_actual_velocity = -577.476502, right_actual_velocity =
+ 574.554824                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.924,000]  DoubleDiff402: Rotating: left_actual_velocity = -577.984393, right_actual_velocity =
+ 578.235720                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.935,000]  DoubleDiff402: Rotating: left_actual_velocity = -578.455631, right_actual_velocity =
+ 579.916470                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.946,000]  DoubleDiff402: Rotating: left_actual_velocity = -578.335203, right_actual_velocity =
+ 574.240665                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.956,000]  DoubleDiff402: Rotating: left_actual_velocity = -571.235211, right_actual_velocity =
+ 568.931379                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.967,000]  DoubleDiff402: Rotating: left_actual_velocity = -563.093259, right_actual_velocity =
+ 567.690451                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.977,000]  DoubleDiff402: Rotating: left_actual_velocity = -554.040245, right_actual_velocity =
+ 562.182198                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.987,000]  DoubleDiff402: Rotating: left_actual_velocity = -546.683690, right_actual_velocity =
+ 553.432871                                                                                                                        
+[2025-08-05 09:01:51] [00:19:56.998,000]  DoubleDiff402: Rotating: left_actual_velocity = -537.426473, right_actual_velocity =
+ 544.526465                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.008,000]  DoubleDiff402: Rotating: left_actual_velocity = -530.855315, right_actual_velocity =
+ 540.756557                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.018,000]  DoubleDiff402: Rotating: left_actual_velocity = -524.671619, right_actual_velocity =
+ 539.960688                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.029,000]  DoubleDiff402: Rotating: left_actual_velocity = -528.451999, right_actual_velocity =
+ 531.630240                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.039,000]  DoubleDiff402: Rotating: left_actual_velocity = -531.378913, right_actual_velocity =
+ 516.367351                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.050,000]  DoubleDiff402: Rotating: left_actual_velocity = -523.210780, right_actual_velocity =
+ 515.906585                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.060,000]  DoubleDiff402: Rotating: left_actual_velocity = -508.508142, right_actual_velocity =
+ 504.261760                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.070,000]  DoubleDiff402: Rotating: left_actual_velocity = -498.695911, right_actual_velocity =
+ 495.056903                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.081,000]  DoubleDiff402: Rotating: left_actual_velocity = -482.338702, right_actual_velocity =
+ 475.605228                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.091,000]  DoubleDiff402: Rotating: left_actual_velocity = -471.830085, right_actual_velocity =
+ 467.499927                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.101,000]  DoubleDiff402: Rotating: left_actual_velocity = -457.551561, right_actual_velocity =
+ 458.624937                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.111,000]  DoubleDiff402: Rotating: left_actual_velocity = -454.226712, right_actual_velocity =
+ 446.231367                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.122,000]  DoubleDiff402: Rotating: left_actual_velocity = -444.608212, right_actual_velocity =
+ 439.822524                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.132,000]  DoubleDiff402: Rotating: left_actual_velocity = -439.461241, right_actual_velocity =
+ 434.293327                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.142,000]  DoubleDiff402: Rotating: left_actual_velocity = -432.329833, right_actual_velocity =
+ 425.444516                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.153,000]  DoubleDiff402: Rotating: left_actual_velocity = -423.475787, right_actual_velocity =
+ 421.229551                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.163,000]  DoubleDiff402: Rotating: left_actual_velocity = -415.653229, right_actual_velocity =
+ 415.386194                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.173,000]  DoubleDiff402: Rotating: left_actual_velocity = -405.511131, right_actual_velocity =
+ 410.354415                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.184,000]  DoubleDiff402: Rotating: left_actual_velocity = -403.060692, right_actual_velocity =
+ 405.165556                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.194,000]  DoubleDiff402: Rotating: left_actual_velocity = -399.222716, right_actual_velocity =
+ 398.908557                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.204,000]  DoubleDiff402: Rotating: left_actual_velocity = -391.604362, right_actual_velocity =
+ 392.646322                                                                                                                        
+[2025-08-05 09:01:51] [00:19:57.215,000]  DoubleDiff402: Rotating: left_actual_velocity = -386.038513, right_actual_velocity =
+ 385.562038                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.225,000]  DoubleDiff402: Rotating: left_actual_velocity = -380.875834, right_actual_velocity =
+ 380.472663                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.235,000]  DoubleDiff402: Rotating: left_actual_velocity = -374.707847, right_actual_velocity =
+ 375.639852                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.246,000]  DoubleDiff402: Rotating: left_actual_velocity = -369.697011, right_actual_velocity =
+ 368.393252                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.256,000]  DoubleDiff402: Rotating: left_actual_velocity = -361.795914, right_actual_velocity =
+ 362.083893                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.266,000]  DoubleDiff402: Rotating: left_actual_velocity = -356.790315, right_actual_velocity =
+ 358.245918                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.277,000]  DoubleDiff402: Rotating: left_actual_velocity = -350.439068, right_actual_velocity =
+ 350.302933                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.287,000]  DoubleDiff402: Rotating: left_actual_velocity = -342.014372, right_actual_velocity =
+ 342.485611                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.297,000]  DoubleDiff402: Rotating: left_actual_velocity = -336.191960, right_actual_velocity =
+ 336.479939                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.308,000]  DoubleDiff402: Rotating: left_actual_velocity = -330.846022, right_actual_velocity =
+ 331.055461                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.318,000]  DoubleDiff402: Rotating: left_actual_velocity = -320.091314, right_actual_velocity =
+ 322.855913                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.328,000]  DoubleDiff402: Rotating: left_actual_velocity = -318.960342, right_actual_velocity =
+ 316.656509                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.339,000]  DoubleDiff402: Rotating: left_actual_velocity = -310.781737, right_actual_velocity =
+ 308.451725                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.349,000]  DoubleDiff402: Rotating: left_actual_velocity = -303.566553, right_actual_velocity =
+ 303.634621                                                                                                                                                                                                                    
+[2025-08-05 09:01:52] [00:19:57.360,000]  DoubleDiff402: Rotating: left_actual_velocity = -288.293193, right_actual_velocity =
+ 289.424165                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.370,000]  DoubleDiff402: Rotating: left_actual_velocity = -285.146367, right_actual_velocity =
+ 283.434201                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.381,000]  DoubleDiff402: Rotating: left_actual_velocity = -275.067101, right_actual_velocity =
+ 275.946746                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.391,000]  DoubleDiff402: Rotating: left_actual_velocity = -270.820719, right_actual_velocity =
+ 272.030231                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.401,000]  DoubleDiff402: Rotating: left_actual_velocity = -261.170804, right_actual_velocity =
+ 264.846463                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.412,000]  DoubleDiff402: Rotating: left_actual_velocity = -257.379952, right_actual_velocity =
+ 257.772651                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.422,000]  DoubleDiff402: Rotating: left_actual_velocity = -250.714547, right_actual_velocity =
+ 249.594000 
+[2025-08-05 09:01:52] [00:19:57.443,000]  DoubleDiff402: Rotating: left_actual_velocity = -237.671714, right_actual_velocity =
+ 237.043397                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.453,000]  DoubleDiff402: Rotating: left_actual_velocity = -233.158298, right_actual_velocity =
+ 231.959258                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.463,000]  DoubleDiff402: Rotating: left_actual_velocity = -223.314651, right_actual_velocity =
+ 222.932424                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.473,000]  DoubleDiff402: Rotating: left_actual_velocity = -218.204332, right_actual_velocity =
+ 216.041871                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.484,000]  DoubleDiff402: Rotating: left_actual_velocity = -209.502129, right_actual_velocity =
+ 211.036272                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.494,000]  DoubleDiff402: Rotating: left_actual_velocity = -200.564307, right_actual_velocity =
+ 202.281709                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.504,000]  DoubleDiff402: Rotating: left_actual_velocity = -196.035182, right_actual_velocity =
+ 197.139974                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.515,000]  DoubleDiff402: Rotating: left_actual_velocity = -186.924573, right_actual_velocity =
+ 190.919627                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.525,000]  DoubleDiff402: Rotating: left_actual_velocity = -182.625831, right_actual_velocity =
+ 183.704444                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.535,000]  DoubleDiff402: Rotating: left_actual_velocity = -179.714625, right_actual_velocity =
+ 179.086307                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.546,000]  DoubleDiff402: Rotating: left_actual_velocity = -172.619869, right_actual_velocity =
+ 172.520385                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.556,000]  DoubleDiff402: Rotating: left_actual_velocity = -167.855125, right_actual_velocity =
+ 164.619288                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.567,000]  DoubleDiff402: Rotating: left_actual_velocity = -161.111179, right_actual_velocity =
+ 158.775931                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.577,000]  DoubleDiff402: Rotating: left_actual_velocity = -152.393269, right_actual_velocity =
+ 153.320038                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.588,000]  DoubleDiff402: Rotating: left_actual_velocity = -145.136197, right_actual_velocity =
+ 145.015769                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.598,000]  DoubleDiff402: Rotating: left_actual_velocity = -138.585983, right_actual_velocity =
+ 140.355745                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.609,000]  DoubleDiff402: Rotating: left_actual_velocity = -133.318585, right_actual_velocity =
+ 135.517697                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.619,000]  DoubleDiff402: Rotating: left_actual_velocity = -125.427959, right_actual_velocity =
+ 127.208193                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.630,000]  DoubleDiff402: Rotating: left_actual_velocity = -114.228193, right_actual_velocity =
+ 113.521335                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.640,000]  DoubleDiff402: Rotating: left_actual_velocity = -107.751282, right_actual_velocity =
+ 107.180560                                                                                                                        
+[2025-08-05 09:01:52] [00:19:57.650,000]  DoubleDiff402: Rotating: left_actual_velocity = -99.677398, right_actual_velocity = 
+100.117220                                                                                                                         
+[2025-08-05 09:01:52] [00:19:57.661,000]  DoubleDiff402: Rotating: left_actual_velocity = -93.567006, right_actual_velocity = 
+93.472758                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.671,000]  DoubleDiff402: Rotating: left_actual_velocity = -87.283827, right_actual_velocity = 
+85.692088                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.681,000]  DoubleDiff402: Rotating: left_actual_velocity = -80.314735, right_actual_velocity = 
+79.927272                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.692,000]  DoubleDiff402: Rotating: left_actual_velocity = -73.193798, right_actual_velocity = 
+73.576025                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.702,000]  DoubleDiff402: Rotating: left_actual_velocity = -67.418510, right_actual_velocity = 
+67.413274                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.712,000]  DoubleDiff402: Rotating: left_actual_velocity = -60.459889, right_actual_velocity = 
+60.826408                                                                                                                                      
+[2025-08-05 09:01:52] [00:19:57.723,000]  DoubleDiff402: Rotating: left_actual_velocity = -53.359897, right_actual_velocity = 
+52.365060                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.733,000]  DoubleDiff402: Rotating: left_actual_velocity = -48.919784, right_actual_velocity = 
+49.563810                                                                                                                          
+[2025-08-05 09:01:52] [00:19:57.743,000]  DoubleDiff402: Rotating: left_actual_velocity = -43.997960, right_actual_velocity = 
+45.532103                                                                                                                                                 
+[2025-08-05 09:01:52] [00:19:57.753,000]  DoubleDiff402: Rotating: left_actual_velocity = -41.500397, right_actual_velocity = 
+43.772813 
